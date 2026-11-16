@@ -1,0 +1,323 @@
+{
+  "package": "msi-bench-release",
+  "source_paths": [
+    "sub-articles/sub-article-1/code",
+    "sub-articles/sub-article-1/data",
+    "sub-articles/sub-article-1/results/benchmark",
+    "sub-articles/sub-article-1/results/benchmark_degraded",
+    "sub-articles/sub-article-1/results/e0",
+    "sub-articles/sub-article-1/results/e1",
+    "sub-articles/sub-article-1/results/e2",
+    "sub-articles/sub-article-1/results/e3",
+    "sub-articles/sub-article-1/results/e3r",
+    "sub-articles/sub-article-1/results/e4",
+    "sub-articles/sub-article-1/results/e5",
+    "sub-articles/sub-article-1/results/e6",
+    "sub-articles/sub-article-1/results/e7",
+    "sub-articles/sub-article-1/results/brackets",
+    "sub-articles/sub-article-1/results/fidelity"
+  ],
+  "source_git_head": "68b9f2e6c18c007a790f21dbd7d58b2253aa544f",
+  "source_last_commit_touching_sources": "26e4fd20404ea6221c2865dabd6a428fe8677b37",
+  "source_trees_unmodified_vs_head": true,
+  "builder": {
+    "build_release.py_sha256": "acf93a7117940a69656da1212212482726cf3b0fa096ae3ec77656850837fce8",
+    "release_rules.py_sha256": "5fbf0bd64852670853c8105880e76052b5bf2435feccbf45b54a52e15db8a2f7",
+    "template_sha256": {
+      "README.md": "068371662301c9d07d0bb5dd05f3e69e22feb9928c8a0c9d05195c738636c66b",
+      "LICENSE-CODE": "bf1a49b35f2e224db644a370afd5c946cca4ee5d90316545a2033c4796167269",
+      "LICENSE-DATA": "5dd62800c5d7950165f75a75f79920ab215cca7d80eaa4e9ff8aa787e725d10b",
+      "CITATION.cff": "f56b87d2f2a312bae7bb0a14ff3735e9ee37eff23f1cc5ba456d0a4fe2426fd0"
+    }
+  },
+  "file_count_excluding_manifest_and_build_info": 98,
+  "total_bytes_excluding_manifest_and_build_info": 75166765,
+  "files_by_top_level": {
+    "(root)": 5,
+    "benchmark": 6,
+    "benchmark_degraded": 6,
+    "code": 48,
+    "data": 14,
+    "results": 19
+  },
+  "bytes_by_top_level": {
+    "(root)": 20000,
+    "benchmark": 14199757,
+    "benchmark_degraded": 13345853,
+    "code": 497756,
+    "data": 46500836,
+    "results": 602563
+  },
+  "byte_identical_copies": 43,
+  "sanitized_files": 51,
+  "ast_equivalence_checked_python_files": 45,
+  "residual_scan": {
+    "text_files_scanned": 90,
+    "unexplained_hits": 0,
+    "kept_hits": 4,
+    "kept_hits_detail": [
+      {
+        "file": "code/msi_bench/experiments/e4_fusion.py",
+        "marker": "section-sign",
+        "lines": [
+          488
+        ],
+        "reason": "string value written into results/e4/e4_results.json (frozen result file carries the same value)"
+      },
+      {
+        "file": "code/msi_bench/experiments/e4_fusion.py",
+        "marker": "section-sign",
+        "lines": [
+          663
+        ],
+        "reason": "console label; executable string"
+      },
+      {
+        "file": "code/msi_bench/experiments/e6_endtoend.py",
+        "marker": "section-sign",
+        "lines": [
+          189
+        ],
+        "reason": "ablation label used as a key of results/e6/e6_results.json"
+      },
+      {
+        "file": "code/msi_bench/experiments/e7_paradigms.py",
+        "marker": "section-sign",
+        "lines": [
+          266
+        ],
+        "reason": "method label used as a key of results/e7/e7_results.json"
+      }
+    ]
+  },
+  "sanitization_rule_totals": {
+    "Legacy->Original": 4,
+    "equation-reference->manuscript": 21,
+    "explicit-edit": 216,
+    "gateway-removal (executable)": 11,
+    "identifier-rename": 1,
+    "legacy->original": 19,
+    "p0-label": 7,
+    "pipeline-step-reference": 3,
+    "placeholder-line-edit": 3,
+    "review-tag-parenthetical": 25,
+    "section-reference->manuscript": 142,
+    "string-literal-edit": 5
+  },
+  "sanitization_rule_hits_per_file": {
+    "DATASHEET.md": {
+      "explicit-edit": 1
+    },
+    "benchmark/DATASHEET.md": {
+      "explicit-edit": 1
+    },
+    "benchmark_degraded/DATASHEET.md": {
+      "explicit-edit": 1
+    },
+    "code/.env.example": {
+      "explicit-edit": 2,
+      "placeholder-line-edit": 3
+    },
+    "code/config.example.yaml": {
+      "explicit-edit": 30
+    },
+    "code/msi_bench/__init__.py": {
+      "explicit-edit": 1,
+      "p0-label": 1,
+      "section-reference->manuscript": 7
+    },
+    "code/msi_bench/clustering.py": {
+      "explicit-edit": 4,
+      "section-reference->manuscript": 3
+    },
+    "code/msi_bench/config.py": {
+      "explicit-edit": 3
+    },
+    "code/msi_bench/conflict.py": {
+      "explicit-edit": 5,
+      "section-reference->manuscript": 3
+    },
+    "code/msi_bench/credibility/__init__.py": {
+      "section-reference->manuscript": 1
+    },
+    "code/msi_bench/credibility/domain.py": {
+      "explicit-edit": 8,
+      "review-tag-parenthetical": 1,
+      "section-reference->manuscript": 6
+    },
+    "code/msi_bench/credibility/mcam.py": {
+      "equation-reference->manuscript": 8,
+      "explicit-edit": 7,
+      "review-tag-parenthetical": 1,
+      "section-reference->manuscript": 18
+    },
+    "code/msi_bench/experiments/__init__.py": {
+      "explicit-edit": 1
+    },
+    "code/msi_bench/experiments/benchmark_mask.py": {
+      "section-reference->manuscript": 1
+    },
+    "code/msi_bench/experiments/brackets.py": {
+      "explicit-edit": 1
+    },
+    "code/msi_bench/experiments/build.py": {
+      "section-reference->manuscript": 1
+    },
+    "code/msi_bench/experiments/common.py": {
+      "explicit-edit": 8,
+      "review-tag-parenthetical": 1,
+      "section-reference->manuscript": 7
+    },
+    "code/msi_bench/experiments/e0_characterize.py": {
+      "explicit-edit": 13,
+      "section-reference->manuscript": 5,
+      "string-literal-edit": 2
+    },
+    "code/msi_bench/experiments/e1_credibility.py": {
+      "explicit-edit": 9,
+      "review-tag-parenthetical": 3,
+      "section-reference->manuscript": 6
+    },
+    "code/msi_bench/experiments/e2_ablation.py": {
+      "explicit-edit": 2,
+      "section-reference->manuscript": 2
+    },
+    "code/msi_bench/experiments/e3_clustering.py": {
+      "explicit-edit": 5,
+      "section-reference->manuscript": 3
+    },
+    "code/msi_bench/experiments/e3r_real_clustering.py": {
+      "explicit-edit": 6,
+      "section-reference->manuscript": 2
+    },
+    "code/msi_bench/experiments/e4_fusion.py": {
+      "equation-reference->manuscript": 1,
+      "explicit-edit": 11,
+      "legacy->original": 1,
+      "review-tag-parenthetical": 3,
+      "section-reference->manuscript": 10
+    },
+    "code/msi_bench/experiments/e5_sensitivity.py": {
+      "explicit-edit": 3,
+      "section-reference->manuscript": 5
+    },
+    "code/msi_bench/experiments/e6_endtoend.py": {
+      "explicit-edit": 5,
+      "review-tag-parenthetical": 1,
+      "section-reference->manuscript": 5
+    },
+    "code/msi_bench/experiments/e7_paradigms.py": {
+      "explicit-edit": 3,
+      "review-tag-parenthetical": 1,
+      "section-reference->manuscript": 2
+    },
+    "code/msi_bench/experiments/freeze.py": {
+      "explicit-edit": 1,
+      "review-tag-parenthetical": 1,
+      "string-literal-edit": 1
+    },
+    "code/msi_bench/experiments/run.py": {
+      "explicit-edit": 4,
+      "section-reference->manuscript": 2,
+      "string-literal-edit": 1
+    },
+    "code/msi_bench/experiments/validate_benchmark.py": {
+      "explicit-edit": 1,
+      "review-tag-parenthetical": 1,
+      "section-reference->manuscript": 1
+    },
+    "code/msi_bench/fusion.py": {
+      "equation-reference->manuscript": 5,
+      "explicit-edit": 10,
+      "section-reference->manuscript": 11
+    },
+    "code/msi_bench/generation/__init__.py": {
+      "explicit-edit": 1,
+      "section-reference->manuscript": 1
+    },
+    "code/msi_bench/generation/benchmark.py": {
+      "Legacy->Original": 3,
+      "explicit-edit": 20,
+      "legacy->original": 12,
+      "review-tag-parenthetical": 11,
+      "section-reference->manuscript": 8,
+      "string-literal-edit": 1
+    },
+    "code/msi_bench/generation/contributors.py": {
+      "equation-reference->manuscript": 1,
+      "explicit-edit": 5,
+      "legacy->original": 3,
+      "section-reference->manuscript": 3
+    },
+    "code/msi_bench/generation/generators.py": {
+      "explicit-edit": 10,
+      "review-tag-parenthetical": 1,
+      "section-reference->manuscript": 3
+    },
+    "code/msi_bench/llm/__init__.py": {
+      "explicit-edit": 1,
+      "section-reference->manuscript": 2
+    },
+    "code/msi_bench/llm/cache.py": {
+      "explicit-edit": 3
+    },
+    "code/msi_bench/llm/client.py": {
+      "explicit-edit": 2,
+      "gateway-removal (executable)": 11,
+      "section-reference->manuscript": 1
+    },
+    "code/msi_bench/parsing/__init__.py": {
+      "p0-label": 1,
+      "section-reference->manuscript": 1
+    },
+    "code/msi_bench/parsing/authority.py": {
+      "pipeline-step-reference": 1,
+      "section-reference->manuscript": 1
+    },
+    "code/msi_bench/parsing/chains.py": {
+      "explicit-edit": 1,
+      "section-reference->manuscript": 1
+    },
+    "code/msi_bench/parsing/event_type.py": {
+      "explicit-edit": 1,
+      "pipeline-step-reference": 1,
+      "section-reference->manuscript": 2
+    },
+    "code/msi_bench/parsing/loader.py": {
+      "section-reference->manuscript": 1
+    },
+    "code/msi_bench/parsing/message_function.py": {
+      "p0-label": 1,
+      "pipeline-step-reference": 1,
+      "section-reference->manuscript": 1
+    },
+    "code/msi_bench/parsing/pipeline.py": {
+      "p0-label": 1
+    },
+    "code/msi_bench/schema.py": {
+      "equation-reference->manuscript": 1,
+      "p0-label": 3,
+      "section-reference->manuscript": 3
+    },
+    "code/msi_bench/similarity.py": {
+      "equation-reference->manuscript": 3,
+      "explicit-edit": 12,
+      "legacy->original": 2,
+      "section-reference->manuscript": 8
+    },
+    "code/msi_bench/stats.py": {
+      "section-reference->manuscript": 3
+    },
+    "code/requirements.txt": {
+      "explicit-edit": 3
+    },
+    "code/tests/test_framework.py": {
+      "Legacy->Original": 1,
+      "equation-reference->manuscript": 2,
+      "explicit-edit": 11,
+      "identifier-rename": 1,
+      "legacy->original": 1,
+      "section-reference->manuscript": 2
+    }
+  }
+}

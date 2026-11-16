@@ -1,0 +1,118 @@
+{
+  "crowd": {
+    "n": 2795,
+    "mean_words": 46.16,
+    "median_words": 45.0,
+    "type_token_ratio": 0.0239
+  },
+  "official": {
+    "n": 5334,
+    "mean_words": 56.42,
+    "median_words": 44.0,
+    "type_token_ratio": 0.0344
+  },
+  "length_ks_test": {
+    "statistic": 0.2267,
+    "p_value": 0.0
+  },
+  "crowd_oov_rate_vs_official": 0.2349,
+  "less_formal_than_official": true,
+  "artifact_screen": {
+    "ai_disclosure_hits": 1,
+    "exact_duplicates": 0,
+    "ai_disclosure_rate": 0.0004
+  },
+  "attack_content_shape_parity": {
+    "genuine_crowd": {
+      "n": 2795,
+      "words_q25_q50_q75": [
+        34,
+        45,
+        57
+      ],
+      "n_structured_dist": {
+        "1": 407,
+        "2": 679,
+        "3": 1709
+      }
+    },
+    "t1_sophisticated": {
+      "n": 112,
+      "words_q25_q50_q75": [
+        32,
+        44,
+        57
+      ],
+      "n_structured_dist": {
+        "1": 15,
+        "2": 28,
+        "3": 69
+      }
+    },
+    "t1_naive_(short_by_design)": {
+      "n": 112,
+      "words_q25_q50_q75": [
+        15,
+        17,
+        18
+      ],
+      "n_structured_dist": {
+        "2": 19,
+        "3": 33,
+        "4": 60
+      }
+    },
+    "t5_throwaway": {
+      "n": 40,
+      "words_q25_q50_q75": [
+        34,
+        34,
+        46
+      ],
+      "n_structured_dist": {
+        "1": 6,
+        "2": 9,
+        "3": 25
+      }
+    },
+    "t5_registered": {
+      "n": 51,
+      "words_q25_q50_q75": [
+        48,
+        54,
+        60
+      ],
+      "n_structured_dist": {
+        "1": 6,
+        "2": 19,
+        "3": 26
+      }
+    },
+    "t5_farmed": {
+      "n": 48,
+      "words_q25_q50_q75": [
+        35,
+        47,
+        54
+      ],
+      "n_structured_dist": {
+        "1": 5,
+        "2": 14,
+        "3": 29
+      }
+    },
+    "t5_paraphrased": {
+      "n": 36,
+      "words_q25_q50_q75": [
+        34,
+        37,
+        55
+      ],
+      "n_structured_dist": {
+        "1": 5,
+        "2": 13,
+        "3": 18
+      }
+    }
+  }
+}

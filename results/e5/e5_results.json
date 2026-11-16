@@ -1,0 +1,120 @@
+{
+  "dimension_weights_auc_primary": {
+    "Default": 0.8059,
+    "Content-heavy": 0.7945,
+    "Social-heavy": 0.7737,
+    "Spatiotemporal-heavy": 0.7524,
+    "Equal": 0.7975,
+    "Data-driven": 0.8083
+  },
+  "sigma_t_multiplier_auc_primary": {
+    "0.25x": 0.797,
+    "0.5x": 0.8027,
+    "1.0x": 0.8059,
+    "2.0x": 0.8076,
+    "4.0x": 0.8086
+  },
+  "sigma_p_clustering_ARI": {
+    "2nm": 0.7146,
+    "3nm": 0.9245,
+    "5nm": 0.9295,
+    "8nm": 0.9383,
+    "12nm": 0.942
+  },
+  "history_lambda_auc_primary": {
+    "30d": 0.8065,
+    "60d": 0.8068,
+    "90d": 0.8059,
+    "180d": 0.8055,
+    "365d": 0.805
+  },
+  "minpts_clustering": {
+    "minpts=1": {
+      "ARI": 0.9519,
+      "noise_rate": 0.0
+    },
+    "minpts=2": {
+      "ARI": 0.9295,
+      "noise_rate": 0.0
+    },
+    "minpts=3": {
+      "ARI": 0.9403,
+      "noise_rate": 0.0
+    },
+    "minpts=4": {
+      "ARI": 0.3444,
+      "noise_rate": 0.0
+    },
+    "minpts=5": {
+      "ARI": 0.5314,
+      "noise_rate": 0.0
+    }
+  },
+  "sim_weights_clustering_ARI": {
+    "Default": 0.9295,
+    "Spatial-dominant": 0.9268,
+    "Semantic-dominant": 0.5074,
+    "Equal": 0.9324
+  },
+  "data_driven_weights_relative": {
+    "cd": 0.434,
+    "cc": 0.059,
+    "cst": 0.123,
+    "cso": 0.385
+  },
+  "scenario_adaptive": {
+    "Content-heavy": {
+      "matched_threat": "content-forgery (T1)",
+      "auc_on_target_profile": 0.8621,
+      "auc_on_target_default": 0.8541
+    },
+    "Social-heavy": {
+      "matched_threat": "Sybil (T5)",
+      "auc_on_target_profile": 0.6006,
+      "auc_on_target_default": 0.5759
+    },
+    "Spatiotemporal-heavy": {
+      "matched_threat": "replay (T2)",
+      "auc_on_target_profile": 0.9963,
+      "auc_on_target_default": 0.9846
+    }
+  },
+  "theta_ndup_sweep": {
+    "0.6": {
+      "auc_primary": 0.8063,
+      "auc_vs_sybil": 0.5759,
+      "sybil_detection": 0.38,
+      "false_alarm": 0.2634
+    },
+    "0.7": {
+      "auc_primary": 0.8063,
+      "auc_vs_sybil": 0.5759,
+      "sybil_detection": 0.38,
+      "false_alarm": 0.2634
+    },
+    "0.75": {
+      "auc_primary": 0.8059,
+      "auc_vs_sybil": 0.5759,
+      "sybil_detection": 0.38,
+      "false_alarm": 0.2634
+    },
+    "0.8": {
+      "auc_primary": 0.8052,
+      "auc_vs_sybil": 0.5759,
+      "sybil_detection": 0.38,
+      "false_alarm": 0.2634
+    },
+    "0.9": {
+      "auc_primary": 0.8052,
+      "auc_vs_sybil": 0.5759,
+      "sybil_detection": 0.38,
+      "false_alarm": 0.2634
+    },
+    "1.01": {
+      "auc_primary": 0.7854,
+      "auc_vs_sybil": 0.484,
+      "sybil_detection": 0.06,
+      "false_alarm": 0.1521
+    }
+  }
+}

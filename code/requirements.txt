@@ -1,0 +1,45 @@
+# ---------------------------------------------------------------------------
+# MSI-Bench reference implementation — Python dependencies
+#
+# Core dependencies are required for the parsing pipeline, Experiment E0,
+# and the credibility / clustering / fusion framework. They are all CPU-only
+# and install cleanly on a standard laptop.
+#
+# Optional dependencies (see comments) are only needed for the semantic
+# embedding path and for LLM-based synthetic data generation. The code falls
+# back gracefully (TF-IDF instead of transformer embeddings; no generation
+# without an API key) so that E0 and the real-data experiments run with the
+# core set alone.
+# ---------------------------------------------------------------------------
+
+# --- core (always required) ---
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+shapely>=2.0
+pyyaml>=6.0
+python-dateutil>=2.8
+
+# --- geodesy (recommended; geodesic area / distance not hand-rolled) ---
+geographiclib>=2.0
+
+# --- plotting (figures for E0–E7) ---
+matplotlib>=3.7
+
+# --- optional: transformer sentence embeddings (Section 3.4) -------------
+# Without these the framework uses a TF-IDF fallback automatically.
+sentence-transformers>=2.2
+torch>=2.0
+
+# --- optional: LLM clients for synthetic data generation -------------------
+# Install only the provider you configure in config.yaml.
+anthropic>=0.39          # provider: anthropic / anthropic_proxy
+openai>=1.40             # provider: openai (the openai_responses proxy needs >=1.66)
+google-genai>=0.3        # provider: gemini
+
+# --- optional: gradient-boosted baseline for E1/E7 -------------------------
+xgboost>=2.0
+
+# --- optional: developer tooling ------------------------------------------
+pytest>=7.4

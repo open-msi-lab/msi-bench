@@ -1,0 +1,65 @@
+{
+  "n_messages": 1540,
+  "n_ground_truth_chains": 1118,
+  "n_test_messages": 480,
+  "n_test_chains": 335,
+  "split": {
+    "dev_fraction": 0.7,
+    "level": "chain",
+    "seed": 20260613
+  },
+  "temporal_mode": "gate",
+  "encoder": "sbert:sentence-transformers/all-MiniLM-L6-v2",
+  "chosen_eps": 0.465,
+  "used_fallback": false,
+  "eps_by_method": {
+    "STS-DBSCAN (ours)": 0.465,
+    "DBSCAN-Spatial": 0.9792,
+    "ST-DBSCAN": 0.589,
+    "DBSCAN-Composite (no semantic constraint)": 0.465,
+    "Agglomerative": 0.465
+  },
+  "methods": {
+    "STS-DBSCAN (ours)": {
+      "ARI": 0.4912,
+      "NMI": 0.9643,
+      "V": 0.9643,
+      "n_clusters": 365,
+      "noise_rate": 0.0
+    },
+    "DBSCAN-Spatial": {
+      "ARI": 0.4035,
+      "NMI": 0.9427,
+      "V": 0.9427,
+      "n_clusters": 326,
+      "noise_rate": 0.0
+    },
+    "ST-DBSCAN": {
+      "ARI": 0.3762,
+      "NMI": 0.9399,
+      "V": 0.9399,
+      "n_clusters": 323,
+      "noise_rate": 0.0
+    },
+    "DBSCAN-Composite (no semantic constraint)": {
+      "ARI": 0.4876,
+      "NMI": 0.9655,
+      "V": 0.9655,
+      "n_clusters": 365,
+      "noise_rate": 0.0
+    },
+    "Agglomerative": {
+      "ARI": 0.363,
+      "NMI": 0.9643,
+      "V": 0.9643,
+      "n_clusters": 376,
+      "noise_rate": 0.0
+    }
+  },
+  "constraint_effect": {
+    "type_incompatible_pairs_prevented": 42,
+    "prevented_correctly": 38,
+    "prevented_correctly_pct": 90.5,
+    "true_chain_pairs_lost_to_constraint": 4
+  }
+}

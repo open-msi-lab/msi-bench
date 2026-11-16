@@ -1,0 +1,17 @@
+{
+  "schema_aligned": {
+    "e1_auc_primary": 0.8059,
+    "e3_sts_ARI": 0.9295,
+    "e4_proposed_J": 0.7126
+  },
+  "schema_degraded": {
+    "e1_auc_primary": 0.7347,
+    "e3_sts_ARI": 0.9184,
+    "e4_proposed_J": 0.6992
+  },
+  "aligned_minus_degraded": {
+    "e1_auc_primary": 0.0712,
+    "e3_sts_ARI": 0.0111,
+    "e4_proposed_J": 0.0134
+  }
+}

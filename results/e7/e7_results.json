@@ -1,0 +1,138 @@
+{
+  "judge_model": "openai_responses:gpt-5.3-codex",
+  "judge_cache_misses": 0,
+  "methods": {
+    "MCAM (proposed)": {
+      "auc_primary": 0.8059,
+      "ci95": [
+        0.77,
+        0.8371
+      ],
+      "auc_macro": 0.8079,
+      "per_attack_auc": {
+        "ATTACK_FABRICATION": 0.8541,
+        "ATTACK_IMPERSONATION": 0.8531,
+        "ATTACK_REPLAY": 0.9846,
+        "ATTACK_SYBIL": 0.5759,
+        "ATTACK_TAMPER": 0.7717
+      }
+    },
+    "MCAM (data-driven, \u00a73.5.2)": {
+      "auc_primary": 0.8083,
+      "ci95": [
+        0.7725,
+        0.8406
+      ],
+      "auc_macro": 0.822,
+      "per_attack_auc": {
+        "ATTACK_FABRICATION": 0.8533,
+        "ATTACK_IMPERSONATION": 0.9962,
+        "ATTACK_REPLAY": 0.9027,
+        "ATTACK_SYBIL": 0.6264,
+        "ATTACK_TAMPER": 0.7315
+      }
+    },
+    "Rule-based filter": {
+      "auc_primary": 0.6013,
+      "ci95": [
+        0.5761,
+        0.6261
+      ],
+      "auc_macro": 0.6,
+      "per_attack_auc": {
+        "ATTACK_FABRICATION": 0.5,
+        "ATTACK_IMPERSONATION": 0.5,
+        "ATTACK_REPLAY": 1.0,
+        "ATTACK_SYBIL": 0.5,
+        "ATTACK_TAMPER": 0.5
+      }
+    },
+    "ML classifier (GBDT/XGBoost)": {
+      "auc_primary": 0.799,
+      "ci95": [
+        0.7672,
+        0.829
+      ],
+      "auc_macro": 0.807,
+      "per_attack_auc": {
+        "ATTACK_FABRICATION": 0.8451,
+        "ATTACK_IMPERSONATION": 1.0,
+        "ATTACK_REPLAY": 0.8214,
+        "ATTACK_SYBIL": 0.8144,
+        "ATTACK_TAMPER": 0.5541
+      }
+    },
+    "Dawid-Skene EM": {
+      "auc_primary": 0.6505,
+      "ci95": [
+        0.6139,
+        0.6878
+      ],
+      "auc_macro": 0.5881,
+      "per_attack_auc": {
+        "ATTACK_FABRICATION": 0.8105,
+        "ATTACK_IMPERSONATION": 0.2151,
+        "ATTACK_REPLAY": 0.803,
+        "ATTACK_SYBIL": 0.699,
+        "ATTACK_TAMPER": 0.4128
+      }
+    },
+    "LLM-as-judge": {
+      "auc_primary": 0.5128,
+      "ci95": [
+        0.4662,
+        0.56
+      ],
+      "auc_macro": 0.5126,
+      "per_attack_auc": {
+        "ATTACK_FABRICATION": 0.7264,
+        "ATTACK_IMPERSONATION": 0.7208,
+        "ATTACK_REPLAY": 0.1368,
+        "ATTACK_SYBIL": 0.4737,
+        "ATTACK_TAMPER": 0.5054
+      }
+    }
+  },
+  "mcam_vs_baselines": {
+    "Rule-based filter": {
+      "auc_delta": 0.2046,
+      "p_delong": 0.0,
+      "p_holm": 0.0,
+      "significant_at_0.05": true,
+      "mcam_better": true
+    },
+    "ML classifier (GBDT/XGBoost)": {
+      "auc_delta": 0.0069,
+      "p_delong": 0.7444,
+      "p_holm": 0.7444,
+      "significant_at_0.05": false,
+      "mcam_better": true
+    },
+    "Dawid-Skene EM": {
+      "auc_delta": 0.1554,
+      "p_delong": 0.0,
+      "p_holm": 0.0,
+      "significant_at_0.05": true,
+      "mcam_better": true
+    },
+    "LLM-as-judge": {
+      "auc_delta": 0.2931,
+      "p_delong": 0.0,
+      "p_holm": 0.0,
+      "significant_at_0.05": true,
+      "mcam_better": true
+    }
+  },
+  "data_driven_mcam_vs_ml": {
+    "auc_data_driven_mcam": 0.8083,
+    "auc_ml_gbdt": 0.799,
+    "auc_delta": 0.0093,
+    "p_delong": 0.6325,
+    "weights_relative": {
+      "cd": 0.434,
+      "cc": 0.059,
+      "cst": 0.123,
+      "cso": 0.385
+    }
+  }
+}

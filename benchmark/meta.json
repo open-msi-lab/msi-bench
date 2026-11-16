@@ -1,0 +1,32 @@
+{
+  "n_events": 1118,
+  "now": "2024-06-13T00:00:00",
+  "degraded": false,
+  "category_counts": {
+    "OFFICIAL": 1118,
+    "GENUINE_CROWD": 2795,
+    "GENUINE_SENSOR": 559,
+    "ATTACK_FABRICATION": 224,
+    "ATTACK_REPLAY": 134,
+    "ATTACK_TAMPER": 134,
+    "ATTACK_IMPERSONATION": 89,
+    "ATTACK_SYBIL": 175
+  },
+  "total_records": 5228,
+  "generators": {
+    "A": "openai_responses:gpt-5.2-codex",
+    "B": "anthropic_proxy:claude-sonnet-4-6",
+    "judge": "openai_responses:gpt-5.3-codex"
+  },
+  "seed": 20260613,
+  "attack_prevalence_pct": 14.46,
+  "reserve_multiplier": 5.0,
+  "reserve_counts": {
+    "ATTACK_FABRICATION": 1118,
+    "ATTACK_REPLAY": 671,
+    "ATTACK_TAMPER": 671,
+    "ATTACK_IMPERSONATION": 447,
+    "ATTACK_SYBIL": 855
+  },
+  "reserve_records": 3762
+}

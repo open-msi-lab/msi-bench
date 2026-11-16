@@ -1,0 +1,53 @@
+{
+  "chosen_eps": 0.5656,
+  "used_fallback": false,
+  "temporal_mode": "gate",
+  "encoder": "sbert:sentence-transformers/all-MiniLM-L6-v2",
+  "eps_by_method": {
+    "STS-DBSCAN (ours)": 0.5656,
+    "DBSCAN-Spatial": 0.7014,
+    "ST-DBSCAN": 0.7119,
+    "DBSCAN-Composite (no constraint)": 0.5656
+  },
+  "eps_fallback_by_method": {
+    "STS-DBSCAN (ours)": false,
+    "DBSCAN-Spatial": false,
+    "ST-DBSCAN": false,
+    "DBSCAN-Composite (no constraint)": false
+  },
+  "n_test_genuine": 1302,
+  "methods": {
+    "STS-DBSCAN (ours)": {
+      "ARI": 0.9295,
+      "NMI": 0.9878,
+      "V": 0.9878,
+      "n_clusters": 381,
+      "noise_rate": 0.0
+    },
+    "DBSCAN-Spatial": {
+      "ARI": 0.4155,
+      "NMI": 0.9258,
+      "V": 0.9258,
+      "n_clusters": 333,
+      "noise_rate": 0.0
+    },
+    "ST-DBSCAN": {
+      "ARI": 0.9361,
+      "NMI": 0.9884,
+      "V": 0.9884,
+      "n_clusters": 395,
+      "noise_rate": 0.0
+    },
+    "DBSCAN-Composite (no constraint)": {
+      "ARI": 0.9551,
+      "NMI": 0.9928,
+      "V": 0.9928,
+      "n_clusters": 358,
+      "noise_rate": 0.0
+    }
+  },
+  "noise_classification": {
+    "attack_noise_rate": 0.4669,
+    "genuine_noise_rate": 0.0763
+  }
+}

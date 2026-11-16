@@ -1,0 +1,424 @@
+{
+  "benchmark_meta": {
+    "n_events": 1118,
+    "now": "2024-06-13T00:00:00",
+    "degraded": false,
+    "category_counts": {
+      "OFFICIAL": 1118,
+      "GENUINE_CROWD": 2795,
+      "GENUINE_SENSOR": 559,
+      "ATTACK_FABRICATION": 224,
+      "ATTACK_REPLAY": 134,
+      "ATTACK_TAMPER": 134,
+      "ATTACK_IMPERSONATION": 89,
+      "ATTACK_SYBIL": 175
+    },
+    "total_records": 5228,
+    "generators": {
+      "A": "openai_responses:gpt-5.2-codex",
+      "B": "anthropic_proxy:claude-sonnet-4-6",
+      "judge": "openai_responses:gpt-5.3-codex"
+    },
+    "seed": 20260613,
+    "attack_prevalence_pct": 14.46,
+    "reserve_multiplier": 5.0,
+    "reserve_counts": {
+      "ATTACK_FABRICATION": 1118,
+      "ATTACK_REPLAY": 671,
+      "ATTACK_TAMPER": 671,
+      "ATTACK_IMPERSONATION": 447,
+      "ATTACK_SYBIL": 855
+    },
+    "reserve_records": 3762
+  },
+  "n_dev": 3694,
+  "n_test": 1534,
+  "auc_roc_primary": {
+    "auc": 0.8059,
+    "ci95": [
+      0.77,
+      0.8371
+    ],
+    "bootstrap": "event-level"
+  },
+  "auc_pr_primary": 0.9371,
+  "auc_roc_secondary": {
+    "auc": 0.8514,
+    "ci95": [
+      0.8225,
+      0.8782
+    ],
+    "bootstrap": "event-level"
+  },
+  "auc_pr_secondary": 0.9676,
+  "per_dimension_auc_primary": {
+    "cd": 0.6948,
+    "cc": 0.6849,
+    "cst": 0.6599,
+    "cso": 0.6879,
+    "cr": 0.8059
+  },
+  "weighting_methods_primary": {
+    "expert": {
+      "auc": 0.8059
+    },
+    "device_only": {
+      "auc": 0.6948
+    },
+    "data_driven": {
+      "auc": 0.8083,
+      "ci95": [
+        0.7725,
+        0.8406
+      ],
+      "weights_relative": {
+        "cd": 0.434,
+        "cc": 0.059,
+        "cst": 0.123,
+        "cso": 0.385
+      },
+      "raw_coef": [
+        0.937,
+        0.127,
+        0.265,
+        0.831
+      ],
+      "delong_p_vs_device_only": 0.0,
+      "delong_p_vs_expert": 0.8123
+    }
+  },
+  "operating_threshold_dev": 0.7172,
+  "per_attack_detection_test": {
+    "ATTACK_FABRICATION": 0.8406,
+    "ATTACK_REPLAY": 1.0,
+    "ATTACK_TAMPER": 0.7317,
+    "ATTACK_IMPERSONATION": 0.84,
+    "ATTACK_SYBIL": 0.38
+  },
+  "false_alarm_rate_test": 0.2634,
+  "per_attack_detection_by_tier_test": {
+    "ATTACK_FABRICATION:farmed": 0.6452,
+    "ATTACK_FABRICATION:throwaway": 1.0,
+    "ATTACK_REPLAY:farmed": 1.0,
+    "ATTACK_REPLAY:throwaway": 1.0,
+    "ATTACK_SYBIL:farmed": 0.6667,
+    "ATTACK_SYBIL:paraphrased": 0.1429,
+    "ATTACK_SYBIL:registered": 0.2778,
+    "ATTACK_SYBIL:throwaway": 0.6667
+  },
+  "per_attack_auc_test": {
+    "ATTACK_FABRICATION": 0.8541,
+    "ATTACK_REPLAY": 0.9846,
+    "ATTACK_TAMPER": 0.7717,
+    "ATTACK_IMPERSONATION": 0.8531,
+    "ATTACK_SYBIL": 0.5759
+  },
+  "macro_auc_test": {
+    "auc": 0.8079,
+    "ci95": [
+      0.7791,
+      0.8361
+    ],
+    "bootstrap": "event-level"
+  },
+  "detection_far_curve_test": [
+    {
+      "far_budget_dev": 0.01,
+      "tau": 0.522,
+      "far_test": 0.0103,
+      "detection_pooled_test": 0.2069,
+      "detection_macro_test": 0.2113,
+      "detection_by_attack_test": {
+        "ATTACK_FABRICATION": 0.1449,
+        "ATTACK_REPLAY": 0.5319,
+        "ATTACK_TAMPER": 0.2195,
+        "ATTACK_IMPERSONATION": 0.16,
+        "ATTACK_SYBIL": 0.0
+      }
+    },
+    {
+      "far_budget_dev": 0.02,
+      "tau": 0.5406,
+      "far_test": 0.0217,
+      "detection_pooled_test": 0.2974,
+      "detection_macro_test": 0.2961,
+      "detection_by_attack_test": {
+        "ATTACK_FABRICATION": 0.2464,
+        "ATTACK_REPLAY": 0.766,
+        "ATTACK_TAMPER": 0.2683,
+        "ATTACK_IMPERSONATION": 0.2,
+        "ATTACK_SYBIL": 0.0
+      }
+    },
+    {
+      "far_budget_dev": 0.05,
+      "tau": 0.5692,
+      "far_test": 0.0424,
+      "detection_pooled_test": 0.3793,
+      "detection_macro_test": 0.3775,
+      "detection_by_attack_test": {
+        "ATTACK_FABRICATION": 0.3478,
+        "ATTACK_REPLAY": 0.8936,
+        "ATTACK_TAMPER": 0.3659,
+        "ATTACK_IMPERSONATION": 0.28,
+        "ATTACK_SYBIL": 0.0
+      }
+    },
+    {
+      "far_budget_dev": 0.1,
+      "tau": 0.6047,
+      "far_test": 0.092,
+      "detection_pooled_test": 0.4957,
+      "detection_macro_test": 0.4845,
+      "detection_by_attack_test": {
+        "ATTACK_FABRICATION": 0.5362,
+        "ATTACK_REPLAY": 0.9787,
+        "ATTACK_TAMPER": 0.4878,
+        "ATTACK_IMPERSONATION": 0.36,
+        "ATTACK_SYBIL": 0.06
+      }
+    },
+    {
+      "far_budget_dev": 0.15,
+      "tau": 0.6327,
+      "far_test": 0.1313,
+      "detection_pooled_test": 0.6121,
+      "detection_macro_test": 0.612,
+      "detection_by_attack_test": {
+        "ATTACK_FABRICATION": 0.7101,
+        "ATTACK_REPLAY": 1.0,
+        "ATTACK_TAMPER": 0.6098,
+        "ATTACK_IMPERSONATION": 0.64,
+        "ATTACK_SYBIL": 0.1
+      }
+    },
+    {
+      "far_budget_dev": 0.2,
+      "tau": 0.6582,
+      "far_test": 0.1861,
+      "detection_pooled_test": 0.6509,
+      "detection_macro_test": 0.6564,
+      "detection_by_attack_test": {
+        "ATTACK_FABRICATION": 0.7391,
+        "ATTACK_REPLAY": 1.0,
+        "ATTACK_TAMPER": 0.6829,
+        "ATTACK_IMPERSONATION": 0.72,
+        "ATTACK_SYBIL": 0.14
+      }
+    },
+    {
+      "far_budget_dev": 0.25,
+      "tau": 0.6689,
+      "far_test": 0.241,
+      "detection_pooled_test": 0.6681,
+      "detection_macro_test": 0.6691,
+      "detection_by_attack_test": {
+        "ATTACK_FABRICATION": 0.7826,
+        "ATTACK_REPLAY": 1.0,
+        "ATTACK_TAMPER": 0.6829,
+        "ATTACK_IMPERSONATION": 0.72,
+        "ATTACK_SYBIL": 0.16
+      }
+    },
+    {
+      "far_budget_dev": 0.3,
+      "tau": 0.6912,
+      "far_test": 0.2854,
+      "detection_pooled_test": 0.6853,
+      "detection_macro_test": 0.6878,
+      "detection_by_attack_test": {
+        "ATTACK_FABRICATION": 0.8116,
+        "ATTACK_REPLAY": 1.0,
+        "ATTACK_TAMPER": 0.7073,
+        "ATTACK_IMPERSONATION": 0.76,
+        "ATTACK_SYBIL": 0.16
+      }
+    }
+  ],
+  "per_attack_operating_test": {
+    "ATTACK_FABRICATION": {
+      "tau_dev": 0.6899,
+      "detection_test": 0.8116,
+      "far_test": 0.2844
+    },
+    "ATTACK_REPLAY": {
+      "tau_dev": 0.5686,
+      "detection_test": 0.8936,
+      "far_test": 0.0414
+    },
+    "ATTACK_TAMPER": {
+      "tau_dev": 0.6656,
+      "detection_test": 0.6829,
+      "far_test": 0.2048
+    },
+    "ATTACK_IMPERSONATION": {
+      "tau_dev": 0.7141,
+      "detection_test": 0.8,
+      "far_test": 0.3402
+    },
+    "ATTACK_SYBIL": {
+      "tau_dev": 0.7504,
+      "detection_test": 0.62,
+      "far_test": 0.4457
+    }
+  },
+  "quality_tier_spearman_test": {
+    "rho": -0.0235,
+    "p": 0.510172,
+    "n": 790,
+    "tiers": "poor < moderate < good"
+  },
+  "per_generator_auc_test": {
+    "genuine_crowd_A_vs_attacks": {
+      "auc": 0.7866,
+      "n_genuine": 348
+    },
+    "genuine_crowd_B_vs_attacks": {
+      "auc": 0.7902,
+      "n_genuine": 442
+    }
+  },
+  "credibility_levels_by_category_test": {
+    "OFFICIAL": {
+      "VERY HIGH": 200,
+      "HIGH": 131,
+      "MEDIUM": 4
+    },
+    "GENUINE_CROWD": {
+      "HIGH": 383,
+      "MEDIUM": 390,
+      "VERY HIGH": 12,
+      "LOW": 5
+    },
+    "GENUINE_SENSOR": {
+      "HIGH": 100,
+      "VERY HIGH": 42,
+      "MEDIUM": 35
+    },
+    "ATTACK_FABRICATION": {
+      "MEDIUM": 59,
+      "LOW": 6,
+      "HIGH": 4
+    },
+    "ATTACK_REPLAY": {
+      "MEDIUM": 23,
+      "LOW": 24
+    },
+    "ATTACK_TAMPER": {
+      "MEDIUM": 28,
+      "HIGH": 8,
+      "LOW": 4,
+      "VERY HIGH": 1
+    },
+    "ATTACK_IMPERSONATION": {
+      "LOW": 3,
+      "MEDIUM": 22
+    },
+    "ATTACK_SYBIL": {
+      "MEDIUM": 31,
+      "HIGH": 19
+    }
+  },
+  "brier_score": 0.1082,
+  "reliability_bins": [
+    {
+      "bin": [
+        0.4,
+        0.5
+      ],
+      "n": 42,
+      "mean_score": 0.466,
+      "empirical_credible": 0.119
+    },
+    {
+      "bin": [
+        0.5,
+        0.6
+      ],
+      "n": 155,
+      "mean_score": 0.559,
+      "empirical_credible": 0.51
+    },
+    {
+      "bin": [
+        0.6,
+        0.7
+      ],
+      "n": 261,
+      "mean_score": 0.652,
+      "empirical_credible": 0.805
+    },
+    {
+      "bin": [
+        0.7,
+        0.8
+      ],
+      "n": 440,
+      "mean_score": 0.755,
+      "empirical_credible": 0.882
+    },
+    {
+      "bin": [
+        0.8,
+        0.9
+      ],
+      "n": 381,
+      "mean_score": 0.842,
+      "empirical_credible": 0.961
+    },
+    {
+      "bin": [
+        0.9,
+        1.0
+      ],
+      "n": 255,
+      "mean_score": 0.962,
+      "empirical_credible": 0.996
+    }
+  ],
+  "negative_control_auc": 0.4906,
+  "social_formulation_primary": {
+    "polarity": {
+      "auc_overall": 0.8059,
+      "auc_vs_fabrication": 0.8541,
+      "t1_detection": 0.8406,
+      "false_alarm": 0.2634
+    },
+    "naive": {
+      "auc_overall": 0.8099,
+      "auc_vs_fabrication": 0.8871,
+      "t1_detection": 0.8116,
+      "false_alarm": 0.139
+    },
+    "binary": {
+      "auc_overall": 0.8059,
+      "auc_vs_fabrication": 0.8541,
+      "t1_detection": 0.8406,
+      "false_alarm": 0.2634
+    }
+  },
+  "social_formulation_auc_primary": {
+    "polarity": 0.8059,
+    "naive": 0.8099,
+    "binary": 0.8059
+  },
+  "primary_auc_multiseed": {
+    "n_seeds": 5,
+    "seeds": [
+      20260613,
+      20260614,
+      20260615,
+      20260616,
+      20260617
+    ],
+    "values": [
+      0.8059,
+      0.8089,
+      0.7754,
+      0.795,
+      0.7849
+    ],
+    "mean": 0.794,
+    "std": 0.0141
+  }
+}

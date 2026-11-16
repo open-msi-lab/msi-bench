@@ -1,0 +1,26 @@
+This file states the terms for the data in this release. The licence for the
+code is in LICENSE-CODE.
+
+1. NGA navigational warnings (data/)
+   The warnings in data/ are issued by the U.S. National Geospatial-Intelligence
+   Agency (NGA), Maritime Safety Information. They are works of the United States
+   Government and are in the public domain in the United States (17 U.S.C. 105).
+   They are redistributed unmodified. No licence is needed; attribution to NGA
+   as the source is requested.
+
+2. Synthetic overlay and derived files (benchmark/, benchmark_degraded/,
+   results/, DATASHEET.md)
+   Licence: Creative Commons Attribution 4.0 International (CC BY 4.0),
+   https://creativecommons.org/licenses/by/4.0/ ; full legal code at
+   https://creativecommons.org/licenses/by/4.0/legalcode . Copyright holders: Hongze Liu, Zhengjiang Liu, Muzhuang Guo.
+   The benchmark files embed the NGA warnings of 2022-2023 as official records
+   (these remain public domain as in item 1) and narrative text written by hosted
+   language models (generator identifiers in benchmark/meta.json).
+
+Notice on the language-model text: the synthetic narrative text was generated with
+commercial hosted models (identifiers in benchmark/meta.json) and is redistributed
+here as part of a research dataset.
+
+No warranty. The benchmark is a research artefact for framework validation under an
+explicit threat model; it is not a substitute for operational field data, and
+nothing in it is a navigational warning.

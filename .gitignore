@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+code/config.yaml
+code/results_recomputed/
+code/.cache/
+.DS_Store

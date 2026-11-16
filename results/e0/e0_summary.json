@@ -1,0 +1,320 @@
+{
+  "archive": {
+    "nav_area": 4,
+    "years": [
+      2012,
+      2024
+    ],
+    "total_messages": 14274,
+    "discrete_event_messages": 7183
+  },
+  "messages_by_year_function": {
+    "2012": {
+      "RECURRING_BULLETIN": 388,
+      "NEW_WARNING": 258,
+      "CANCEL_ONLY": 99,
+      "UPDATE": 35
+    },
+    "2013": {
+      "RECURRING_BULLETIN": 418,
+      "NEW_WARNING": 285,
+      "UPDATE": 43,
+      "CANCEL_ONLY": 85,
+      "ADMIN_ERROR": 1
+    },
+    "2014": {
+      "RECURRING_BULLETIN": 420,
+      "NEW_WARNING": 492,
+      "CANCEL_ONLY": 120,
+      "UPDATE": 67
+    },
+    "2015": {
+      "RECURRING_BULLETIN": 409,
+      "CANCEL_ONLY": 110,
+      "NEW_WARNING": 471,
+      "UPDATE": 112,
+      "ADMIN_ERROR": 1
+    },
+    "2016": {
+      "RECURRING_BULLETIN": 412,
+      "NEW_WARNING": 438,
+      "CANCEL_ONLY": 141,
+      "UPDATE": 114
+    },
+    "2017": {
+      "RECURRING_BULLETIN": 420,
+      "NEW_WARNING": 489,
+      "CANCEL_ONLY": 159,
+      "UPDATE": 142
+    },
+    "2018": {
+      "RECURRING_BULLETIN": 420,
+      "CANCEL_ONLY": 154,
+      "NEW_WARNING": 432,
+      "UPDATE": 112
+    },
+    "2019": {
+      "RECURRING_BULLETIN": 422,
+      "NEW_WARNING": 414,
+      "CANCEL_ONLY": 117,
+      "UPDATE": 175
+    },
+    "2020": {
+      "RECURRING_BULLETIN": 418,
+      "NEW_WARNING": 470,
+      "UPDATE": 198,
+      "CANCEL_ONLY": 169
+    },
+    "2021": {
+      "NEW_WARNING": 408,
+      "RECURRING_BULLETIN": 458,
+      "UPDATE": 179,
+      "CANCEL_ONLY": 140,
+      "ADMIN_ERROR": 1
+    },
+    "2022": {
+      "RECURRING_BULLETIN": 464,
+      "NEW_WARNING": 536,
+      "UPDATE": 192,
+      "CANCEL_ONLY": 211,
+      "ADMIN_ERROR": 11
+    },
+    "2023": {
+      "NEW_WARNING": 664,
+      "RECURRING_BULLETIN": 450,
+      "UPDATE": 177,
+      "CANCEL_ONLY": 219,
+      "ADMIN_ERROR": 9
+    },
+    "2024": {
+      "UPDATE": 72,
+      "NEW_WARNING": 208,
+      "RECURRING_BULLETIN": 165,
+      "CANCEL_ONLY": 71,
+      "ADMIN_ERROR": 9
+    }
+  },
+  "function_totals": {
+    "RECURRING_BULLETIN": 5264,
+    "NEW_WARNING": 5565,
+    "CANCEL_ONLY": 1795,
+    "UPDATE": 1618,
+    "ADMIN_ERROR": 32
+  },
+  "function_percent": {
+    "RECURRING_BULLETIN": 36.88,
+    "NEW_WARNING": 38.99,
+    "CANCEL_ONLY": 12.58,
+    "UPDATE": 11.34,
+    "ADMIN_ERROR": 0.22
+  },
+  "event_type_mix_discrete": {
+    "NAV_WARNING": 5201,
+    "OTHER": 1575,
+    "PORT_INFO": 1,
+    "MET_WARNING": 298,
+    "SAR_INFO": 102,
+    "PIRACY_ALERT": 6
+  },
+  "error_rates": {
+    "admin_error_count": 32,
+    "admin_error_percent": 0.22,
+    "sub_hour_self_cancel_count": 2041,
+    "sub_hour_self_cancel_percent": 14.3,
+    "internal_date_inconsistency_count": 17,
+    "internal_date_inconsistency_percent": 0.12
+  },
+  "coordinate_parsing": {
+    "discrete_with_coords": 6658,
+    "parse_rate_percent": 92.69,
+    "geometry_mix": {
+      "MULTIPOINT": 533,
+      "POINT": 2654,
+      "POLYGON": 2724,
+      "LINE": 747
+    }
+  },
+  "authority_distribution": {
+    "distinct_originators": 948,
+    "top_20": [
+      [
+        "NAIS",
+        4501
+      ],
+      [
+        "EASTERN RANGE",
+        1093
+      ],
+      [
+        "SFH",
+        700
+      ],
+      [
+        "COGARD COMMUNICATIONS COMMAND",
+        661
+      ],
+      [
+        "MEXICO IV",
+        574
+      ],
+      [
+        "COLOMBIA",
+        394
+      ],
+      [
+        "AVURNAV CAYENNE",
+        344
+      ],
+      [
+        "COGARD NAVCEN DGPS",
+        289
+      ],
+      [
+        "WALLOPS",
+        224
+      ],
+      [
+        "GUYANA",
+        186
+      ],
+      [
+        "TRINIDAD AND TOBAGO",
+        185
+      ],
+      [
+        "NAVAREA XVIII",
+        170
+      ],
+      [
+        "M/V LAYLA",
+        152
+      ],
+      [
+        "AVURNAV FORT DE FRANCE",
+        134
+      ],
+      [
+        "COGARD CAMSLANT",
+        132
+      ],
+      [
+        "COGARD NAVCEN GPS",
+        120
+      ],
+      [
+        "SPACEX",
+        114
+      ],
+      [
+        "NGA NAVSAFETY",
+        102
+      ],
+      [
+        "RCC NORFOLK",
+        97
+      ],
+      [
+        "TRINIDAD",
+        97
+      ]
+    ]
+  },
+  "text_length": {
+    "chars": {
+      "n": 14274,
+      "min": 16.0,
+      "q1": 148.0,
+      "median": 390.0,
+      "q3": 921.0,
+      "max": 4466.0,
+      "mean": 578.28
+    },
+    "lines": {
+      "n": 14274,
+      "min": 1.0,
+      "q1": 6.0,
+      "median": 12.0,
+      "q3": 23.0,
+      "max": 105.0,
+      "mean": 16.27
+    }
+  },
+  "active_duration_days": {
+    "overall": {
+      "n": 6953,
+      "min": 0.0,
+      "q1": 1.84,
+      "median": 4.29,
+      "q3": 13.5,
+      "max": 1086.06,
+      "mean": 30.98
+    },
+    "by_timescale_class": {
+      "permanent": {
+        "n": 77,
+        "min": 0.01,
+        "q1": 16.2,
+        "median": 152.87,
+        "q3": 490.76,
+        "max": 1086.06,
+        "mean": 291.22
+      },
+      "scheduled": {
+        "n": 3825,
+        "min": 0.0,
+        "q1": 2.35,
+        "median": 5.28,
+        "q3": 12.72,
+        "max": 904.16,
+        "mean": 20.1
+      },
+      "semi_permanent": {
+        "n": 688,
+        "min": 0.0,
+        "q1": 2.02,
+        "median": 10.81,
+        "q3": 96.98,
+        "max": 1070.81,
+        "mean": 84.96
+      },
+      "transient": {
+        "n": 743,
+        "min": 0.01,
+        "q1": 2.99,
+        "median": 3.0,
+        "q3": 3.0,
+        "max": 585.69,
+        "mean": 6.34
+      }
+    }
+  },
+  "event_chains_benchmark_years": {
+    "benchmark_years": [
+      2022,
+      2023
+    ],
+    "discrete_messages": 1569,
+    "n_events_estimate": 1135,
+    "chain_length_distribution": {
+      "1": 922,
+      "2": 130,
+      "3": 36,
+      "4": 18,
+      "5": 11,
+      "6": 5,
+      "7": 4,
+      "8": 4,
+      "9": 1,
+      "11": 2,
+      "15": 1,
+      "16": 1
+    },
+    "messages_in_multi_message_chains_percent": 41.24
+  },
+  "manuscript_backfill": {
+    "E0-ERR": 0.22,
+    "E0-DUR-PERM-days": 152.87,
+    "E0-DUR-TRANS-days": 3.0,
+    "E0-EVENT-COUNT": 1135
+  }
+}

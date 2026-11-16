@@ -1,0 +1,10064 @@
+{
+ "2022-1": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.955555555555556,
+   -22.783333333333335
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-100": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   32.333333333333336,
+   -71.76666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1006": {
+  "event_type": "OTHER",
+  "centroid": [
+   64.15,
+   -83.36666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1009": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   9.945907407407406,
+   -60.46264814814814
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1011": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.355208333333326,
+   -78.66290277777777
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1020": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.3944126984127,
+   -59.47728571428571
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1026": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.3116666666666665,
+   -52.291666666666664
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1029": {
+  "event_type": "OTHER",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1030": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.25,
+   -86.43333333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1031": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   63.73,
+   -68.545
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1035": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.136,
+   -74.81816666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1040": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1043": {
+  "event_type": "OTHER",
+  "centroid": [
+   63.73,
+   -68.545
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1046": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.397333333333333,
+   -52.60433333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1051": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   7.489083333333333,
+   -56.172277777777786
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1052": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.205555555555552,
+   -73.35277777777777
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1054": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1057": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-106": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.25,
+   -27.75
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1065": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.848291666666668,
+   -80.224625
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1066": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.543,
+   -72.93
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1067": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.390958333333334,
+   -75.79166666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1068": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.1,
+   -97.1
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1074": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.251833333333334,
+   -60.530833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1075": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.568291666666667,
+   -59.489374999999995
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1077": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.34785,
+   -59.606391666666674
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1078": {
+  "event_type": "MET_WARNING",
+  "centroid": [
+   27.653333333333336,
+   -83.33333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1080": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.9865,
+   -85.173
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1083": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.541666666666664,
+   -97.475
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1084": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.969166666666666,
+   -96.77666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1085": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.875,
+   -92.19166666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1086": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.250833333333336,
+   -91.41666666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1090": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.815,
+   -62.28633333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1093": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.56533333333333,
+   -80.40207142857142
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1094": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.789583333333333,
+   -80.37404166666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1098": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.815666666666667,
+   -61.67433333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1099": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.377083333333333,
+   -75.559
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1103": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.3715,
+   -61.60766666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1105": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1107": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.329166666666666,
+   -60.425
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1109": {
+  "event_type": "OTHER",
+  "centroid": [
+   18.413333333333334,
+   -68.95166666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-111": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.067,
+   -56.76358333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1111": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.397333333333333,
+   -52.60433333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1116": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.109966666666669,
+   -60.365358333333326
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1117": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.087833333333334,
+   -61.2795
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1124": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.558333333333334,
+   -96.93833333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1127": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.13181818181818,
+   -72.61818181818181
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1130": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.377083333333333,
+   -75.559
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1140": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.393333333333333,
+   -75.79166666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1142": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.321083333333334,
+   -78.74674999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1145": {
+  "event_type": "OTHER",
+  "centroid": [
+   12.583333333333334,
+   -81.7
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1146": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.40625,
+   -73.30208333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1147": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   27.22,
+   -90.02291666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1148": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.616666666666667,
+   -68.32833333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1149": {
+  "event_type": "OTHER",
+  "centroid": [
+   64.21866666666666,
+   -60.1455
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1151": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.130666666666666,
+   -74.86066666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1153": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.85,
+   -79.98333333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1159": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.45,
+   -74.85952380952381
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-116": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   31.447222222222223,
+   -40.52777777777778
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1163": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.3255,
+   -61.459
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1168": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.241666666666667,
+   -67.46583333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1171": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1177": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.03611111111111,
+   -71.80833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1180": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.845,
+   -79.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1186": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.17138888888889,
+   -68.77222222222223
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1193": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.388333333333334,
+   -75.53
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1194": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   26.292916666666663,
+   -75.98920833333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1196": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.571250000000003,
+   -80.1853888888889
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1197": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.54011111111111,
+   -74.32816666666668
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1198": {
+  "event_type": "OTHER",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-12": {
+  "event_type": "OTHER",
+  "centroid": [
+   6.8175,
+   -58.17166666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-120": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.138333333333332,
+   -68.755
+  ],
+  "split": "test",
+  "cancelled": false
+ },
+ "2022-1208": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.045,
+   -62.330333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1209": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.016666666666666,
+   -97.5
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1210": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.9625,
+   -89.85416666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1211": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.702083333333334,
+   -94.93958333333332
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1212": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.041666666666664,
+   -91.04166666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1213": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.924999999999997,
+   -87.48333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1216": {
+  "event_type": "MET_WARNING",
+  "centroid": [
+   25.783333333333335,
+   -80.18333333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1218": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.198333333333334,
+   -61.490833333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1222": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.395733333333333,
+   -52.60126666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1225": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121333333333332,
+   -56.965666666666664
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1226": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.1,
+   -67.41666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1228": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.571250000000003,
+   -80.1853888888889
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1231": {
+  "event_type": "OTHER",
+  "centroid": [
+   63.73,
+   -68.545
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1234": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.665833333333335,
+   -53.44166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1235": {
+  "event_type": "OTHER",
+  "centroid": [
+   64.15,
+   -83.36666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1238": {
+  "event_type": "OTHER",
+  "centroid": [
+   6.875511904761905,
+   -58.12935714285715
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1239": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   27.37229166666667,
+   -77.07012499999999
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-124": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.948333333333334,
+   -61.708333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1246": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.742388888888886,
+   -80.44661111111111
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1247": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1250": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.392,
+   -60.86783333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1253": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1257": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.966666666666667,
+   -52.46666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1262": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.78055555555555,
+   -75.46388888888889
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1263": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.32,
+   -88.18333333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1264": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.645833333333336,
+   -75.25
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1266": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.023333333333333,
+   -67.3035
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1269": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   27.026999999999997,
+   -92.36286666666668
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-127": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.25,
+   -86.43333333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1271": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.083166666666667,
+   -52.001666666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1273": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   11.786666666666667,
+   -47.571
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1275": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.339999999999996,
+   -79.09
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1278": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1279": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.455166666666667,
+   -62.16883333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1280": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1281": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.586111111111116,
+   -75.8111111111111
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1284": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.171833333333334,
+   -68.86366666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1286": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.780555555555555,
+   -75.46388888888889
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1287": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1289": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   34.469166666666666,
+   -44.799166666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1292": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.8445,
+   -79.95
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1296": {
+  "event_type": "OTHER",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1299": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.016666666666666,
+   -97.5
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-13": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.394416666666666,
+   -75.79166666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1300": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.9625,
+   -89.85416666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1301": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   9.418166666666666,
+   -79.75983333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1302": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.924999999999997,
+   -87.48333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1303": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.940555555555555,
+   -96.80777777777779
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1304": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.250833333333333,
+   -91.41666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1305": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.875,
+   -92.19166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1306": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.041666666666664,
+   -91.04166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1307": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.702083333333334,
+   -94.93958333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-131": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   30.28,
+   -49.35166666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1310": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.0055,
+   -61.202333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1311": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.437547619047617,
+   -80.43735714285715
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1312": {
+  "event_type": "OTHER",
+  "centroid": [
+   15.841666666666667,
+   -37.985166666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1313": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.395733333333333,
+   -52.60126666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1319": {
+  "event_type": "OTHER",
+  "centroid": [
+   63.73,
+   -68.545
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1327": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.2521249999999995,
+   -52.59108333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-133": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.120833333333334,
+   -52.55833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1332": {
+  "event_type": "OTHER",
+  "centroid": [
+   53.708666666666666,
+   -57.0225
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1334": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   46.563833333333335,
+   -59.815333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1335": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.308333333333334,
+   -74.99000000000001
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1337": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.78055555555555,
+   -75.46388888888889
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1338": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.58611111111111,
+   -80.25913888888888
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1339": {
+  "event_type": "OTHER",
+  "centroid": [
+   63.71666666666667,
+   -68.55
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-134": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1343": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   27.194466666666663,
+   -90.6819
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1345": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   27.312166666666666,
+   -67.17
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1347": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.626666666666669,
+   -61.17999999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1348": {
+  "event_type": "OTHER",
+  "centroid": [
+   18.833333333333332,
+   -53.75
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1349": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.516666666666666,
+   -41.64833333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1351": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1357": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   17.307083333333335,
+   -53.60916666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1359": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.312666666666667,
+   -52.291666666666664
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-136": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.496666666666666,
+   -61.06666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1363": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.562416666666667,
+   -52.662499999999994
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1364": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.70952380952381,
+   -74.91309523809524
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1365": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.542875000000002,
+   -70.29762500000001
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1367": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   7.225041666666666,
+   -55.25395833333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1374": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.106446666666667,
+   -78.47657333333332
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1375": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   7.453277777777778,
+   -54.75900000000001
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1376": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.966666666666667,
+   -52.46666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1378": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.54,
+   -71.59833333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1383": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.76111111111111,
+   -74.95277777777777
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1387": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   50.19583333333333,
+   -66.11233333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1388": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.096541666666667,
+   -61.01275
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1392": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   25.296666666666667,
+   -84.67333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1396": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.083125,
+   -55.197
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-140": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.740939393939394,
+   -56.76212121212121
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1403": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.733333333333334,
+   -46.32083333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1405": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1409": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.761666666666667,
+   -77.2115
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-141": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   -16.108333333333334,
+   -88.26666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-1410": {
+  "event_type": "OTHER",
+  "centroid": [
+   9.491666666666667,
+   -75.59666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1411": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.614814814814814,
+   -79.0537037037037
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1412": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   47.47666666666667,
+   -62.14333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-1413": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   7.501666666666667,
+   -56.525
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-142": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   -16.108333333333334,
+   -88.26666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-143": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   26.871052631578948,
+   -33.23070175438596
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-145": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.286999999999999,
+   -61.907583333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-146": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.042307692307691,
+   -52.70897435897436
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-149": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-15": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.243666666666666,
+   -81.84383333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-150": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   17.6375,
+   -76.725
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-155": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.250833333333336,
+   -91.41666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-156": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.875,
+   -92.19166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-162": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.248,
+   -87.704
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-163": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.45,
+   -74.85952380952381
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-165": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.1,
+   -97.1
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-167": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-170": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.996666666666666,
+   -65.385
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-172": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.948333333333334,
+   -61.708333333333336
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-175": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.702083333333334,
+   -94.93958333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-180": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-181": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   13.3496875,
+   -55.95479166666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-182": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   43.60666666666667,
+   -23.546666666666663
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-185": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   36.55,
+   -51.38333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-186": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.058333333333334,
+   -61.626666666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-19": {
+  "event_type": "OTHER",
+  "centroid": [
+   14.083333333333334,
+   -60.96666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-190": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.145625000000003,
+   -89.14245833333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-194": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   44.937,
+   -81.23333333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-195": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.626666666666665,
+   -35.986666666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-197": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   27.431666666666665,
+   -90.48249999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-20": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   27.429166666666667,
+   -73.12083333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-200": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.052083333333336,
+   -29.504166666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-201": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.567499999999999,
+   -76.62916666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-202": {
+  "event_type": "OTHER",
+  "centroid": [
+   46.865,
+   -46.56333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-206": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   38.11904761904761,
+   -26.176190476190477
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-21": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   17.1,
+   -26.5
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-212": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.121333333333332,
+   -56.965666666666664
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-213": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.107916666666668,
+   -56.99191666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-220": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.083166666666667,
+   -52.001666666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-227": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   19.803333333333335,
+   -70.695
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2022-230": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.092857142857145,
+   -22.847619047619048
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-232": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.142499999999999,
+   -55.21304166666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-234": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.181666666666667,
+   -60.75966666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-237": {
+  "event_type": "OTHER",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-240": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-242": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.358999999999995,
+   -79.35999999999999
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-247": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.366666666666667,
+   -57.75833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-255": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   47.98166666666667,
+   -46.89666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-257": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.4,
+   -31.433333333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-258": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.541666666666664,
+   -97.475
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-26": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   17.061666666666667,
+   -46.23166666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-262": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.969166666666666,
+   -96.77666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-264": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   31.74545454545455,
+   -30.10909090909091
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-265": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-266": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.241666666666667,
+   -74.25
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-270": {
+  "event_type": "OTHER",
+  "centroid": [
+   28.084,
+   -90.819
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-272": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.9625,
+   -89.85416666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-273": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.041666666666664,
+   -91.04166666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-274": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.924999999999997,
+   -87.48333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-279": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   24.681666666666665,
+   -85.65333333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-28": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.630833333333334,
+   -58.20916666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-283": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.384583333333333,
+   -75.55458333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-285": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   44.937,
+   -81.23333333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-286": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.870833333333334,
+   -71.736
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-288": {
+  "event_type": "OTHER",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-294": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   34.07333333333333,
+   -68.03666666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-296": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.583333333333334,
+   -61.78933333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-297": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-302": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.4125,
+   -34.225
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-303": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   26.961904761904766,
+   -26.554761904761904
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-306": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.945833333333333,
+   -54.62916666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-307": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.4875,
+   -79.21249999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-309": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.341666666666665,
+   -91.18983333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-313": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.901666666666667,
+   -57.48883333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-32": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.358999999999995,
+   -79.35999999999999
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-320": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.985333333333333,
+   -76.16716666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-324": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.405444444444444,
+   -52.61216666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-33": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   27.5375,
+   -31.508333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-333": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   38.029999999999994,
+   -36.60666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-335": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.4125,
+   -34.225
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-336": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.833333333333332,
+   -17.5
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-341": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.683333333333334,
+   -61.61666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-345": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.106666666666666,
+   -60.6364
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-346": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   50.86,
+   -57.98
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-352": {
+  "event_type": "OTHER",
+  "centroid": [
+   30.874166666666664,
+   -77.14999999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-356": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.117125,
+   -56.949625000000005
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-359": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   48.898666666666664,
+   -59.8805
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-364": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.4125,
+   -34.225
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-367": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   19.785,
+   -87.46333333333334
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2022-368": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.957,
+   -73.14516666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-370": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   31.12777777777778,
+   -31.74444444444444
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-372": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.016666666666666,
+   -97.5
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-375": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   58.13333333333333,
+   -38.78333333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-38": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.98333333333333,
+   -46.49999999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-380": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.795,
+   -62.221666666666664
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-389": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.833333333333332,
+   -18.5
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-390": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.395733333333333,
+   -52.60126666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-393": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.003703703703703,
+   -35.290740740740745
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-394": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   35.99583333333334,
+   -13.795833333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-399": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-4": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.1955,
+   -79.37416666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-400": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.166666666666668,
+   -31.666666666666668
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-406": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   15.033333333333333,
+   -70.83333333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-407": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.312666666666667,
+   -52.291666666666664
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-411": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.733333333333334,
+   -76.01666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-416": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.389666666666667,
+   -75.54866666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-419": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.740939393939394,
+   -56.76212121212121
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-42": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.458916666666667,
+   -80.52516666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-421": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.166666666666668,
+   -31.666666666666668
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-423": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.45,
+   -66.1
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-425": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   46.281666666666666,
+   -64.03833333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-427": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   35.99583333333334,
+   -13.795833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-428": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.198333333333334,
+   -61.49066666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-43": {
+  "event_type": "OTHER",
+  "centroid": [
+   12.891666666666667,
+   -70.39833333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-432": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   28.477833333333333,
+   -41.10333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-433": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.95,
+   -90.06666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-439": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.526666666666667,
+   -86.805
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2022-441": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   17.741666666666667,
+   -77.15833333333333
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2022-446": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-450": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   24.64375,
+   -76.53541666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-46": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   35.38166666666667,
+   -25.601666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-460": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.64047619047619,
+   -80.48333333333332
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-463": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.166666666666668,
+   -31.666666666666668
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-464": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-466": {
+  "event_type": "OTHER",
+  "centroid": [
+   12.45,
+   -71.23333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-468": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.755,
+   -62.325
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-469": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.363166666666668,
+   -87.77033333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-475": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-476": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   42.965,
+   -48.637
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-477": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   63.73,
+   -68.545
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-478": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-487": {
+  "event_type": "OTHER",
+  "centroid": [
+   30.874166666666664,
+   -77.14999999999999
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-49": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   33.5,
+   -52.75
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-491": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.286999999999999,
+   -61.907583333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-492": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.647916666666667,
+   -78.77916666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-496": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.647916666666667,
+   -79.09791666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-498": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   50.19583333333333,
+   -66.11233333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-500": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.845,
+   -79.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-508": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   44.937,
+   -81.23333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-51": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.438111111111112,
+   -80.15194444444445
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-514": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-515": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   17.721333333333334,
+   -62.812333333333335
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-518": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.4875,
+   -79.21249999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-52": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.138333333333332,
+   -68.755
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-522": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-525": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   27.733333333333334,
+   -72.99722222222222
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-53": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.681250000000002,
+   -32.981249999999996
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-530": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.45,
+   -66.1
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-533": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.75626666666667,
+   -80.42293333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-536": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.11825,
+   -56.97066666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-54": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-540": {
+  "event_type": "OTHER",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-543": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.190288888888894,
+   -67.55311111111112
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-547": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   14.23,
+   -80.895
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-552": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.120333333333333,
+   -78.89583333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-554": {
+  "event_type": "OTHER",
+  "centroid": [
+   63.71666666666667,
+   -68.55
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-559": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.728928571428572,
+   -80.42754761904762
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-562": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.519444444444446,
+   -75.8611111111111
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-565": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.2521249999999995,
+   -52.59108333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-570": {
+  "event_type": "OTHER",
+  "centroid": [
+   37.94716666666667,
+   -67.50633333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-576": {
+  "event_type": "OTHER",
+  "centroid": [
+   63.71666666666667,
+   -68.55
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-577": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-582": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-583": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.52809523809524,
+   -75.80833333333332
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-584": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.677777777777784,
+   -75.66666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-591": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.042124999999999,
+   -56.912708333333335
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-592": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121333333333332,
+   -56.97066666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-593": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   -37.66666666666667,
+   -74.96071428571429
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-599": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   38.62033333333333,
+   -70.98107916666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-601": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.549166666666665,
+   -80.36625
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-602": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.394416666666666,
+   -75.79166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-604": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   39.7789090909091,
+   -51.42230303030303
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-606": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.566666666666663,
+   -79.88729166666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-608": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   34.45,
+   -67.8
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-61": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   17.642625000000002,
+   -76.73541666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-610": {
+  "event_type": "OTHER",
+  "centroid": [
+   21.89459523809523,
+   -84.13869047619048
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-614": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.405444444444444,
+   -52.61216666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-616": {
+  "event_type": "OTHER",
+  "centroid": [
+   32.49166666666667,
+   -67.62499999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-617": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.9142619047619,
+   -80.19495238095237
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-620": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.298333333333332,
+   -62.41
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-622": {
+  "event_type": "OTHER",
+  "centroid": [
+   30.874166666666664,
+   -77.14999999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-624": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.45,
+   -72.90333333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-629": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-636": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.863166666666666,
+   -81.36416666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-637": {
+  "event_type": "OTHER",
+  "centroid": [
+   34.404583333333335,
+   -68.26583333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-639": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.239166666666666,
+   -78.71633333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-64": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.379166666666666,
+   -75.55916666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-642": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.73,
+   -79.84833333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-646": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   14.058333333333334,
+   -74.20666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-648": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.808333333333334,
+   -61.361666666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-650": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.560875,
+   -52.72991666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-651": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.908333333333333,
+   -50.3875
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-652": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   44.99567447916666,
+   -37.95383333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-656": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.287166666666668,
+   -61.90766666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-659": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-66": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   27.5375,
+   -31.508333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-660": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.7596,
+   -80.42960000000001
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-666": {
+  "event_type": "OTHER",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-668": {
+  "event_type": "OTHER",
+  "centroid": [
+   6.875511904761905,
+   -58.12935714285715
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-669": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.348166666666667,
+   -52.75020833333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-670": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   4.8845,
+   -52.2115
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-672": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.914119047619046,
+   -80.19495238095237
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-673": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.1,
+   -97.1
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-674": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-680": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.352166666666665,
+   -61.641666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-685": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   26.89,
+   -91.57666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-686": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.125,
+   -51.875
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-687": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.702083333333334,
+   -94.93958333333332
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-688": {
+  "event_type": "OTHER",
+  "centroid": [
+   64.15,
+   -83.36666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-693": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.348166666666667,
+   -52.75020833333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-697": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.038333333333334,
+   -71.74833333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-70": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-702": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.53055555555556,
+   -75.95277777777777
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-703": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-708": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-71": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   35.99583333333334,
+   -13.795833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-710": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   23.262666666666668,
+   -86.2565
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-712": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.874166666666664,
+   -77.14999999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-714": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.378416666666666,
+   -75.5535
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-719": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.729666666666667,
+   -84.65916666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-722": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.92,
+   -58.845
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-727": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   13.614833333333333,
+   -69.39433333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-728": {
+  "event_type": "OTHER",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-733": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.875,
+   -92.19166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-738": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.969166666666666,
+   -96.77666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-74": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.06111111111111,
+   -57.46111111111111
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-741": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.541666666666668,
+   -97.475
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-742": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.570999999999998,
+   -80.42910416666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-745": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.333333333333332,
+   -73.47222222222221
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-748": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.99,
+   -68.64333333333333
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2022-752": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.125,
+   -51.875
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-754": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-756": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121333333333332,
+   -56.97066666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-757": {
+  "event_type": "OTHER",
+  "centroid": [
+   18.5,
+   -81.5
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-758": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-76": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-761": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.554166666666667,
+   -81.6925
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-763": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.687016666666672,
+   -80.49775
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-768": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-770": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.308333333333334,
+   -38.348333333333336
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-771": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.250833333333336,
+   -91.41666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-774": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.79911111111111,
+   -75.34127777777778
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-776": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   58.788555555555554,
+   -94.23316666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-779": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   47.718333333333334,
+   -53.825
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-78": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-782": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   64.2,
+   -87.96666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-787": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   7.810333333333333,
+   -57.431625
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-789": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.798833333333333,
+   -60.798833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-792": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.7830625,
+   -60.3150625
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-793": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.148333333333333,
+   -60.845
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-796": {
+  "event_type": "OTHER",
+  "centroid": [
+   6.875511904761905,
+   -58.12935714285715
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-798": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.366666666666667,
+   -60.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-799": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.503916666666665,
+   -80.54638888888888
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-800": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.4875,
+   -79.21249999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-804": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-805": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.566666666666666,
+   -61.178333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-809": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.125,
+   -51.875
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-810": {
+  "event_type": "OTHER",
+  "centroid": [
+   17.116666666666667,
+   -62.16666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-812": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.728466666666662,
+   -80.44606666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-814": {
+  "event_type": "OTHER",
+  "centroid": [
+   64.15,
+   -83.36666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-815": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   39.31053333333334,
+   -53.26155
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-817": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.818111111111115,
+   -75.21748611111111
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-818": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   56.04666666666667,
+   -41.30583333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-820": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.283333333333333,
+   -75.73333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-824": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   51.215333333333334,
+   -50.065
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-825": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.1979999999999995,
+   -55.33083333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-831": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   7.246833333333333,
+   -55.33466666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-835": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.075374999999999,
+   -55.21670833333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-837": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.849916666666665,
+   -80.22995833333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-838": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.583333333333334,
+   -55.50833333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-843": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.538888888888884,
+   -75.95833333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-845": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.718333333333334,
+   -88.275
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-847": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.50416666666667,
+   -80.54666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-854": {
+  "event_type": "OTHER",
+  "centroid": [
+   25.072,
+   -78.48783333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-856": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   56.5,
+   -6.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-858": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.038124999999999,
+   -60.2575
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-860": {
+  "event_type": "OTHER",
+  "centroid": [
+   64.15,
+   -83.36666666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-862": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.503999999999998,
+   -80.54654166666668
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-865": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.3405000000000005,
+   -56.22966666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-867": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   49.62433333333333,
+   -52.08533333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-87": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.379333333333333,
+   -75.55416666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-872": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.771666666666667,
+   -60.88183333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-875": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.380833333333333,
+   -75.545
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-877": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.379583333333333,
+   -75.55333333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-878": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.283333333333333,
+   -75.73333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-882": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.2521249999999995,
+   -52.59108333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-883": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.833333333333336,
+   -75.49444444444444
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-885": {
+  "event_type": "OTHER",
+  "centroid": [
+   45.01,
+   -45.56666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-888": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.080291666666667,
+   -55.250416666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-890": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   48.667791666666666,
+   -35.585208333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-892": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.503999999999998,
+   -80.54654166666668
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-893": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.513708333333334,
+   -74.699
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-897": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   27.163166666666665,
+   -89.05716666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-899": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.831818181818186,
+   -75.57727272727271
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-9": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   38.159259259259265,
+   -31.353703703703705
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-901": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.948333333333334,
+   -61.708333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-905": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-908": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.133833333333335,
+   -61.505250000000004
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-912": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.968166666666667,
+   -61.41716666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-913": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.671666666666667,
+   -61.275
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-916": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121333333333332,
+   -56.965666666666664
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-923": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   50.9261403508772,
+   -26.168333333333337
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-927": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   60.01708333333333,
+   -77.352
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-929": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-931": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.0,
+   -52.5
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-939": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   9.94590740740741,
+   -60.46264814814813
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-94": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-947": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.63888888888889,
+   -75.69166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-948": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.198333333333334,
+   -61.490833333333335
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-95": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-950": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.45,
+   -66.1
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-952": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-954": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.845,
+   -79.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-956": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.71241666666667,
+   -80.442625
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-958": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.3875,
+   -75.55250000000001
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-961": {
+  "event_type": "MET_WARNING",
+  "centroid": [
+   18.111111111111114,
+   -66.02777777777777
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-962": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.616666666666667,
+   -68.32833333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-963": {
+  "event_type": "OTHER",
+  "centroid": [
+   27.5,
+   -90.75
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-965": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-968": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   44.5,
+   -42.75
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-972": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.410533333333333,
+   -75.79999999999998
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-978": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-979": {
+  "event_type": "OTHER",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-982": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.3116666666666665,
+   -52.291666666666664
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-988": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.027883333333333,
+   -60.57941666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-989": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.198333333333334,
+   -61.490833333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-99": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   27.2845,
+   -44.6745
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-990": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.619374999999998,
+   -80.58708333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2022-993": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.91230952380953,
+   -74.31464285714287
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2022-998": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.589523809523808,
+   -80.30309523809524
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1000": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.125,
+   -51.875
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1002": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.661666666666665,
+   -77.14
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1006": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   11.766666666666667,
+   -39.583333333333336
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-101": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.103550000000002,
+   -61.03451666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1010": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.473166666666668,
+   -61.507666666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1015": {
+  "event_type": "PIRACY_ALERT",
+  "centroid": [
+   35.908166666666666,
+   -75.67566666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1016": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.494928571428574,
+   -83.27566666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1017": {
+  "event_type": "MET_WARNING",
+  "centroid": [
+   28.648148148148152,
+   -82.28888888888889
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1018": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.782166666666667,
+   -74.14561111111111
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1022": {
+  "event_type": "OTHER",
+  "centroid": [
+   12.483333333333333,
+   -70.15
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1023": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.557407407407407,
+   -74.76851851851852
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1025": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.66754385964912,
+   -93.56140350877193
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-103": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121333333333332,
+   -56.97066666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1030": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.429861111111112,
+   -80.33297222222222
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1033": {
+  "event_type": "MET_WARNING",
+  "centroid": [
+   30.15,
+   -85.66666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1036": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.2845,
+   -52.58683333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1044": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.57108333333333,
+   -80.02008333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1047": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.385041666666666,
+   -75.55375000000001
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-105": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.8,
+   -62.86666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1050": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.8445,
+   -79.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1053": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   61.8847140151515,
+   -78.77807575757578
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1059": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.806666666666665,
+   -79.57833333333333
+  ],
+  "split": "test",
+  "cancelled": false
+ },
+ "2023-1060": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.458333333333336,
+   -79.21666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1062": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   49.6775,
+   -43.06575
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1063": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.557407407407407,
+   -74.76851851851852
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1067": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.553703703703704,
+   -74.75555555555555
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1069": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.385083333333334,
+   -75.55383333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1073": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.8445,
+   -79.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1077": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   49.494416666666666,
+   -37.84
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1079": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.553703703703704,
+   -74.75555555555555
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1080": {
+  "event_type": "OTHER",
+  "centroid": [
+   25.616666666666667,
+   -80.38333333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1083": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1086": {
+  "event_type": "OTHER",
+  "centroid": [
+   10.385083333333334,
+   -75.55387499999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1087": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.541666666666668,
+   -97.475
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1088": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.016666666666666,
+   -97.5
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1089": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.969166666666666,
+   -96.77666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1090": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.702083333333334,
+   -94.93958333333332
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1091": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.875,
+   -92.19166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1092": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.041666666666664,
+   -91.04166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1093": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.25,
+   -91.41666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1094": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.9625,
+   -89.85416666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1095": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.516666666666666,
+   -86.67083333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1096": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.924999999999997,
+   -87.48333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1097": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   19.733333333333334,
+   -86.95833333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1100": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.034166666666668,
+   -65.47500000000001
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-1104": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121666666666666,
+   -56.97083333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1107": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.392375,
+   -75.54475
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1112": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.450458333333337,
+   -87.93516666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1114": {
+  "event_type": "MET_WARNING",
+  "centroid": [
+   34.733333333333334,
+   -76.75
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1116": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.616666666666667,
+   -80.38333333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1118": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   7.725156862745098,
+   -56.71389215686274
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1123": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.557407407407407,
+   -74.76851851851852
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1125": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.2901388888888885,
+   -52.691555555555546
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1129": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.560875,
+   -52.72991666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1130": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.466666666666667,
+   -52.79166666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1131": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.59,
+   -74.845
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1135": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   41.85816666666667,
+   -61.592
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1136": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.646666666666665,
+   -80.76666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1138": {
+  "event_type": "OTHER",
+  "centroid": [
+   63.71666666666667,
+   -68.55
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1142": {
+  "event_type": "OTHER",
+  "centroid": [
+   16.407166666666665,
+   -61.5375
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1144": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.385083333333334,
+   -75.55387499999999
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1146": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.571933333333334,
+   -80.31416666666665
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-115": {
+  "event_type": "OTHER",
+  "centroid": [
+   12.4725,
+   -35.88333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1150": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   63.73,
+   -68.545
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1151": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.724547619047618,
+   -52.6932380952381
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1155": {
+  "event_type": "OTHER",
+  "centroid": [
+   63.73,
+   -68.545
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1158": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.0,
+   -52.5
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1160": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.464166666666667,
+   -69.87633333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1162": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   10.683333333333334,
+   -61.61666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1163": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   16.208333333333332,
+   -62.48
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1164": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1165": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.397333333333333,
+   -52.60433333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1168": {
+  "event_type": "OTHER",
+  "centroid": [
+   10.0985,
+   -61.01083333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-117": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.54104166666666,
+   -80.4034375
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1172": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1173": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   26.934666666666665,
+   -96.71416666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1177": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.12777777777778,
+   -77.4861111111111
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1178": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.998225490196079,
+   -58.058705882352946
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1179": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.287,
+   -52.592
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-1181": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.59,
+   -74.845
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1182": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.557407407407407,
+   -74.76851851851852
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1188": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.125,
+   -51.875
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-119": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.032433333333337,
+   -70.92116666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1190": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.646666666666665,
+   -80.76666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1192": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1194": {
+  "event_type": "OTHER",
+  "centroid": [
+   36.71666666666667,
+   -76.0
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1196": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.12222222222223,
+   -83.7648148148148
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1197": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.553703703703704,
+   -74.75555555555555
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1198": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   65.07816666666666,
+   -86.74
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1201": {
+  "event_type": "OTHER",
+  "centroid": [
+   58.902166666666666,
+   -66.34183333333333
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-1205": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.541666666666664,
+   -97.475
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1206": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.1,
+   -97.1
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1207": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.969166666666666,
+   -96.77666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1208": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.875,
+   -92.19166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1210": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.25,
+   -91.41666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1211": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.516666666666666,
+   -86.67083333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1212": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.0136666666666665,
+   -52.285583333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1215": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.515833333333333,
+   -81.7295
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1217": {
+  "event_type": "OTHER",
+  "centroid": [
+   7.96275,
+   -56.70583333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1219": {
+  "event_type": "OTHER",
+  "centroid": [
+   10.730962962962964,
+   -61.172074074074075
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-122": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.58170833333333,
+   -80.32033333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1223": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.385666666666667,
+   -75.55316666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1225": {
+  "event_type": "OTHER",
+  "centroid": [
+   36.43333333333333,
+   -69.9
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1229": {
+  "event_type": "MET_WARNING",
+  "centroid": [
+   18.21666666666667,
+   -65.18333333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1233": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1234": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   40.86329166666667,
+   -58.159
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1235": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.227777777777778,
+   -79.33888888888889
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1238": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.845,
+   -79.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1243": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1247": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.31042222222222,
+   -60.160255555555544
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-125": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.432455555555556,
+   -56.517425
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1250": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   63.70483333333334,
+   -68.46613333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1252": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.883333333333333,
+   -89.95
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1253": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.388452380952382,
+   -70.82388095238095
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1255": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.543055555555554,
+   -80.41938888888889
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1256": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1258": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.553703703703704,
+   -74.75555555555555
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1259": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1260": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.287,
+   -52.592
+  ],
+  "split": "test",
+  "cancelled": false
+ },
+ "2023-1262": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1263": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.205135416666666,
+   -79.96083333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-127": {
+  "event_type": "OTHER",
+  "centroid": [
+   11.278333333333332,
+   -74.98666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1270": {
+  "event_type": "OTHER",
+  "centroid": [
+   9.575277777777778,
+   -75.91622222222223
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1271": {
+  "event_type": "OTHER",
+  "centroid": [
+   10.64,
+   -61.507333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1272": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.2435,
+   -65.15583333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1276": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.547833333333333,
+   -61.06966666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1277": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.16836111111111,
+   -60.760361111111116
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1278": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.365833333333335,
+   -75.81666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-128": {
+  "event_type": "OTHER",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1280": {
+  "event_type": "OTHER",
+  "centroid": [
+   12.55,
+   -81.68833333333333
+  ],
+  "split": "test",
+  "cancelled": false
+ },
+ "2023-1282": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.730962962962964,
+   -61.172074074074075
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1284": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.626666666666665,
+   -74.88166666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1286": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.63427777777778,
+   -80.4056388888889
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1289": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   8.736666666666666,
+   -53.02
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1290": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   7.489083333333333,
+   -56.172277777777786
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1295": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.585729166666663,
+   -80.39985416666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1296": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.205135416666666,
+   -79.96083333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-130": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   31.9865,
+   -54.43933333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1300": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.424999999999999,
+   -70.05833333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1304": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   20.656666666666666,
+   -67.10833333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1305": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.24880952380953,
+   -73.01071428571429
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1313": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.150833333333333,
+   -61.3665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1315": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.139848484848484,
+   -60.28660606060607
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-132": {
+  "event_type": "OTHER",
+  "centroid": [
+   22.303333333333335,
+   -84.665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1321": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.883333333333333,
+   -89.95
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1325": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1326": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.553703703703704,
+   -74.75555555555555
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1328": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-133": {
+  "event_type": "OTHER",
+  "centroid": [
+   33.4875,
+   -79.21249999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1332": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.894791666666674,
+   -95.44687499999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1335": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   39.356,
+   -57.72666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1336": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.553703703703704,
+   -74.75555555555555
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1337": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.014597222222221,
+   -60.79977777777776
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1339": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   31.083333333333336,
+   -116.58333333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-134": {
+  "event_type": "OTHER",
+  "centroid": [
+   17.483333333333334,
+   -62.983333333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1341": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.093333333333334,
+   -81.475
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1345": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.426000000000002,
+   -78.76044736842107
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1347": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.140041666666667,
+   -60.766875
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1353": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.083333333333333,
+   -52.0
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1354": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.166083333333333,
+   -60.74309722222222
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1359": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.553703703703704,
+   -74.75555555555555
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1362": {
+  "event_type": "OTHER",
+  "centroid": [
+   14.772166666666667,
+   -60.88183333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1366": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   22.956666666666667,
+   -70.83833333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1368": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.847999999999999,
+   -61.400375000000004
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1369": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.565,
+   -61.115
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-137": {
+  "event_type": "OTHER",
+  "centroid": [
+   25.616666666666667,
+   -80.38333333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1372": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   31.966666666666665,
+   -64.65
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1377": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.613333333333333,
+   -68.325
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-1378": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.733333333333334,
+   -76.01666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1388": {
+  "event_type": "OTHER",
+  "centroid": [
+   41.86666666666667,
+   -42.745
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1391": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.095769230769232,
+   -61.01261538461539
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1392": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   9.665564814814813,
+   -60.30536111111111
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1393": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.553703703703704,
+   -74.75555555555555
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1395": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.883333333333333,
+   -89.95
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1398": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.553703703703704,
+   -74.75555555555555
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1399": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.883333333333333,
+   -89.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1401": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.44874479166667,
+   -77.31397395833334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1402": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.241,
+   -62.45766666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1403": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.274166666666666,
+   -87.835
+  ],
+  "split": "test",
+  "cancelled": false
+ },
+ "2023-1404": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.115,
+   -91.39833333333333
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-1405": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.397333333333333,
+   -52.60433333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1406": {
+  "event_type": "OTHER",
+  "centroid": [
+   22.39,
+   -84.57166666666666
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-1408": {
+  "event_type": "OTHER",
+  "centroid": [
+   32.02,
+   -64.43
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1410": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.05961111111111,
+   -60.30536111111111
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1411": {
+  "event_type": "OTHER",
+  "centroid": [
+   10.173694444444445,
+   -60.68675000000001
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1412": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.553703703703704,
+   -74.75555555555555
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1420": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.718333333333334,
+   -80.31452380952382
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1423": {
+  "event_type": "OTHER",
+  "centroid": [
+   63.73,
+   -68.545
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1424": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.17,
+   -61.108333333333334
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-1429": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   26.717000000000002,
+   -91.17
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1431": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.73611111111111,
+   -77.44444444444444
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1435": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.887333333333334,
+   -63.97116666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1439": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1444": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   31.971666666666668,
+   -64.53666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1445": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   31.966666666666665,
+   -64.65
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1448": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.566666666666666,
+   -80.36944444444444
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1451": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.637500000000001,
+   -61.50527777777777
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1453": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.978666666666665,
+   -70.70983333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1456": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.140041666666667,
+   -60.77104166666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1457": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.373333333333333,
+   -73.315
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-146": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.101383333333334,
+   -61.03293333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1461": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.883333333333333,
+   -89.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1463": {
+  "event_type": "OTHER",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1464": {
+  "event_type": "OTHER",
+  "centroid": [
+   30.73611111111111,
+   -77.44444444444444
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1465": {
+  "event_type": "OTHER",
+  "centroid": [
+   30.73611111111111,
+   -77.44444444444444
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1467": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.100583333333333,
+   -55.28929166666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1469": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.553703703703704,
+   -74.75555555555555
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-147": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.883333333333333,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1471": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.553703703703704,
+   -74.75555555555555
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1472": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   20.27,
+   -40.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1477": {
+  "event_type": "OTHER",
+  "centroid": [
+   11.0015,
+   -74.95283333333333
+  ],
+  "split": "test",
+  "cancelled": false
+ },
+ "2023-1478": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.453,
+   -70.13683333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1484": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.493476190476194,
+   -83.27540476190475
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1486": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.278333333333332,
+   -88.30166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1488": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   31.867333333333335,
+   -64.81433333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-149": {
+  "event_type": "OTHER",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1490": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.448744791666668,
+   -77.31397395833335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1493": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.419333333333334,
+   -41.373
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1494": {
+  "event_type": "OTHER",
+  "centroid": [
+   36.733333333333334,
+   -76.01666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-15": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.275641025641026,
+   -79.16410256410255
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1502": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   31.867333333333335,
+   -64.81433333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1504": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.718309523809523,
+   -80.31452380952382
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1511": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.597416666666664,
+   -80.37177777777778
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1514": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.87,
+   -92.91166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1516": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.963208333333332,
+   -57.99860416666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-1517": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.934318181818181,
+   -58.14842424242424
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-1519": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.805,
+   -67.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-152": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.489357142857138,
+   -80.3055238095238
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-156": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-159": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.618333333333325,
+   -75.025
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-165": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.55,
+   -62.7
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-166": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.585166666666666,
+   -61.143166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-168": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-169": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.941666666666666,
+   -72.94166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-171": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.921666666666667,
+   -71.23833333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-172": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.9055,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-180": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.843833333333333,
+   -65.90477777777777
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-182": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-184": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.316666666666666,
+   -52.291666666666664
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-187": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.392,
+   -60.867666666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-189": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.223333333333333,
+   -63.075208333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-198": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.883333333333333,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-208": {
+  "event_type": "OTHER",
+  "centroid": [
+   15.785833333333333,
+   -42.94416666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-210": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   26.551666666666666,
+   -90.63833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-212": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   13.395,
+   -68.06433333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-214": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   7.160083333333333,
+   -57.82120833333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-215": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.70833333333333,
+   -74.91944444444444
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-22": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.339999999999996,
+   -79.09
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-220": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.49497619047619,
+   -83.27564285714286
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-222": {
+  "event_type": "OTHER",
+  "centroid": [
+   18.223333333333333,
+   -63.075208333333336
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-225": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.626666666666669,
+   -61.17999999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-229": {
+  "event_type": "OTHER",
+  "centroid": [
+   10.419166666666667,
+   -77.93983333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-233": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.24166666666667,
+   -79.33611111111111
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-235": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.714452380952384,
+   -80.4172619047619
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-236": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.420928571428572,
+   -80.40878571428571
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-241": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.397333333333333,
+   -52.60433333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-242": {
+  "event_type": "OTHER",
+  "centroid": [
+   18.208833333333335,
+   -63.46483333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-243": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   47.82333333333333,
+   -47.95333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-246": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.377777777777776,
+   -79.06851851851852
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-249": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121333333333332,
+   -56.97066666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-25": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   17.922833333333333,
+   -63.499833333333335
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-251": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   26.3925,
+   -90.64283333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-253": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.583166666666667,
+   -61.78933333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-254": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.983333333333333,
+   -68.45
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-259": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.834166666666667,
+   -60.909666666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-261": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.358999999999995,
+   -79.35999999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-264": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.0,
+   -52.5
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-27": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.136183333333333,
+   -49.63695
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-270": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.49497619047619,
+   -83.27564285714286
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-272": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.57575757575757,
+   -74.63030303030301
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-274": {
+  "event_type": "OTHER",
+  "centroid": [
+   18.16916666666667,
+   -63.164833333333334
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-277": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.577694444444447,
+   -80.25350000000002
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-279": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.65,
+   -73.5
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-28": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.0,
+   -52.5
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-283": {
+  "event_type": "OTHER",
+  "centroid": [
+   25.7505,
+   -79.05466666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-284": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.52777777777778,
+   -74.53888888888888
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-289": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-29": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.849916666666665,
+   -80.22991666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-290": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.92916666666667,
+   -76.82083333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-291": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72916666666667,
+   -75.25
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-295": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121333333333332,
+   -56.97066666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-298": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   46.553333333333335,
+   -53.891666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-302": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.083333333333333,
+   -52.0
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-305": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.241666666666667,
+   -74.25
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-309": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.003333333333334,
+   -86.09166666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-315": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.847222222222225,
+   -75.20833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-316": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   48.888035087719295,
+   -65.14188596491229
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-317": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.30247916666666,
+   -75.31903125000001
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-319": {
+  "event_type": "OTHER",
+  "centroid": [
+   25.626416666666664,
+   -78.96375
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-321": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.56190476190476,
+   -75.21666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-327": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.45,
+   -66.1
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-330": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   7.344833333333334,
+   -55.90533333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-334": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.323781250000001,
+   -54.415124999999996
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-335": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.519104166666665,
+   -80.37377083333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-339": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.623333333333335,
+   -80.3895
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-34": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.452875,
+   -80.44772916666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-340": {
+  "event_type": "OTHER",
+  "centroid": [
+   49.661111111111104,
+   -60.77052777777777
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-345": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.1,
+   -97.1
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-346": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.541666666666668,
+   -97.475
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-347": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.016666666666666,
+   -97.5
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-348": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.969166666666666,
+   -96.77666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-349": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.702083333333334,
+   -94.93958333333332
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-350": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.875,
+   -92.19166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-351": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.041666666666664,
+   -91.04166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-352": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.9625,
+   -89.85416666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-353": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.516666666666666,
+   -86.67083333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-354": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.924999999999997,
+   -87.48333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-355": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   19.733333333333334,
+   -86.95833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-356": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.211333333333332,
+   -87.43
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-358": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.131666666666666,
+   -76.81333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-359": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.25,
+   -91.41666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-363": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   17.542166666666667,
+   -62.7405
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-365": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.402333333333333,
+   -75.626
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-366": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   9.576833333333333,
+   -78.709
+  ],
+  "split": "test",
+  "cancelled": false
+ },
+ "2023-37": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.905,
+   -71.20833333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-370": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.634,
+   -71.6
+  ],
+  "split": "test",
+  "cancelled": false
+ },
+ "2023-371": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.215833333333332,
+   -64.75558333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-372": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.733333333333334,
+   -94.15499999999999
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-375": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.575166666666668,
+   -80.4387619047619
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-377": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-382": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-383": {
+  "event_type": "OTHER",
+  "centroid": [
+   6.875416666666666,
+   -56.178333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-387": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.733333333333334,
+   -94.15499999999999
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-391": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.191333333333333,
+   -57.0
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-392": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.2521249999999995,
+   -52.59108333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-393": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.254333333333333,
+   -74.29416666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-394": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.883333333333333,
+   -89.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-396": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.58583333333333,
+   -45.67283333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-397": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   13.763333333333334,
+   -70.255
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-40": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.489966666666666,
+   -79.73819999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-403": {
+  "event_type": "OTHER",
+  "centroid": [
+   25.623333333333335,
+   -80.39
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-404": {
+  "event_type": "OTHER",
+  "centroid": [
+   10.264833333333334,
+   -60.55416666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-405": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.317,
+   -71.21416666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-408": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.163166666666667,
+   -61.6155
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-409": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.755555555555556,
+   -73.46666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-41": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.465,
+   -69.87666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-417": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.874166666666664,
+   -77.14999999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-418": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.501888888888885,
+   -80.32691666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-42": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.623333333333335,
+   -80.3895
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-420": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.850000000000005,
+   -80.23333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-425": {
+  "event_type": "OTHER",
+  "centroid": [
+   30.874166666666664,
+   -77.14999999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-428": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.82948717948719,
+   -75.37564102564103
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-431": {
+  "event_type": "OTHER",
+  "centroid": [
+   30.1505,
+   -42.1195
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-434": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.152606060606063,
+   -56.91598484848484
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-435": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.397333333333333,
+   -52.60433333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-439": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.4,
+   -81.475
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-440": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.533333333333333,
+   -81.69816666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-443": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.862,
+   -65.981
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-444": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.788333333333334,
+   -62.26166666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-445": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.541666666666668,
+   -97.475
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-446": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.016666666666666,
+   -97.5
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-447": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.969166666666666,
+   -96.77666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-448": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.041666666666664,
+   -91.04166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-449": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.9625,
+   -89.85416666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-450": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   19.733333333333334,
+   -86.95833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-451": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.25,
+   -72.93055555555556
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-452": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   42.78916666666667,
+   -63.663333333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-453": {
+  "event_type": "OTHER",
+  "centroid": [
+   49.7375,
+   -61.53364285714286
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-457": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.35555555555556,
+   -80.04629629629629
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-46": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   47.54833333333333,
+   -59.13166666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-460": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.591666666666665,
+   -84.99
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-462": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.546666666666667,
+   -69.885
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-464": {
+  "event_type": "OTHER",
+  "centroid": [
+   7.360166666666666,
+   -55.68366666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-469": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.845,
+   -79.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-470": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   26.072,
+   -96.12333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-473": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.195833333333333,
+   -58.559666666666665
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-474": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.55,
+   -53.155
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-475": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   9.16,
+   -53.45666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-478": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.464416666666665,
+   -80.3505
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-480": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.755555555555556,
+   -73.46666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-483": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   27.5385,
+   -91.57708333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-486": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   43.07772727272727,
+   -32.678030303030305
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-487": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.883333333333333,
+   -89.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-491": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   27.641666666666666,
+   -92.69833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-493": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-496": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.252666666666666,
+   -71.955
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-50": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.9547619047619,
+   -75.75238095238095
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-501": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.125,
+   -51.875
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-505": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   47.20666666666667,
+   -64.58333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-508": {
+  "event_type": "OTHER",
+  "centroid": [
+   6.9485,
+   -58.05733333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-510": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.0317,
+   -60.40173333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-513": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.428138888888892,
+   -80.2483888888889
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-517": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   43.12132291666667,
+   -46.803854166666675
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-521": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121333333333332,
+   -56.97066666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-523": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.66111111111111,
+   -74.88333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-524": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.277,
+   -61.0905
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-527": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.505833333333333,
+   -67.97966666666667
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-529": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.108166666666667,
+   -60.904
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-53": {
+  "event_type": "OTHER",
+  "centroid": [
+   22.371666666666666,
+   -84.58166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-530": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.8445,
+   -79.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-531": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.958,
+   -81.55333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-532": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   47.635,
+   -52.64333333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-534": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.541666666666668,
+   -97.475
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-535": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.875,
+   -92.19166666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-536": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.924999999999997,
+   -87.48333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-537": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.516666666666666,
+   -86.67083333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-538": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.969166666666666,
+   -96.77666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-539": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   19.733333333333334,
+   -86.95833333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-540": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.041666666666664,
+   -91.04166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-541": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.25,
+   -91.41666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-542": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.1,
+   -97.1
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-543": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.016666666666666,
+   -97.5
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-544": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.9625,
+   -89.85416666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-545": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.702083333333334,
+   -94.93958333333332
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-547": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-548": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.597880952380955,
+   -80.44919047619047
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-549": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.648333333333333,
+   -51.086666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-56": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.808333333333334,
+   -61.361666666666665
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-560": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.646666666666665,
+   -80.76666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-562": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   19.5,
+   -46.41666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-567": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.405555555555555,
+   -72.86666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-57": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.048333333333334,
+   -61.92666666666667
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-574": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   40.39783333333333,
+   -63.8445
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-577": {
+  "event_type": "OTHER",
+  "centroid": [
+   10.941351851851854,
+   -61.428814814814814
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-578": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   36.5645,
+   -40.056666666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-582": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   26.737666666666666,
+   -93.53611666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-584": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.49497619047619,
+   -83.27564285714286
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-585": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.714,
+   -66.37916666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-589": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.39391666666667,
+   -86.2045
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-59": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.556,
+   -79.75133333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-591": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.502083333333335,
+   -74.73124999999999
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-593": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-594": {
+  "event_type": "OTHER",
+  "centroid": [
+   14.392,
+   -60.86783333333333
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-597": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.083166666666667,
+   -52.001666666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-598": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   27.31,
+   -85.54333333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-6": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121333333333332,
+   -56.97066666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-60": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.278476190476193,
+   -78.00450000000001
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-601": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.2775,
+   -97.74133333333333
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-602": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-603": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.996,
+   -47.8275
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-61": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.806666666666665,
+   -74.49666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-612": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   38.58016666666666,
+   -70.47833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-615": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.735000000000003,
+   -80.47592857142857
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-616": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   17.47,
+   -87.49166666666666
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-619": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   29.833833333333335,
+   -71.26616666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-620": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-625": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-627": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.2845,
+   -52.58683333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-631": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.785000000000004,
+   -75.08333333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-632": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.998225490196079,
+   -58.058705882352946
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-634": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   1.7166527777777778,
+   -45.26168055555556
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-635": {
+  "event_type": "OTHER",
+  "centroid": [
+   17.477833333333333,
+   -62.988166666666665
+  ],
+  "split": "test",
+  "cancelled": false
+ },
+ "2023-637": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   17.478,
+   -62.98866666666667
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-639": {
+  "event_type": "OTHER",
+  "centroid": [
+   63.73,
+   -68.545
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-644": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.2521249999999995,
+   -52.59108333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-646": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   -19.961111111111116,
+   8.85925925925926
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-649": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.674833333333334,
+   -63.88483333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-65": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   13.862333333333334,
+   -73.06083333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-652": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.038333333333334,
+   -71.74833333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-654": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.08611111111111,
+   -73.13888888888889
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-655": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.68030303030303,
+   -75.0409090909091
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-656": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   39.6145,
+   -40.23
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-657": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.307916666666667,
+   -39.77791666666668
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-659": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-66": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.148333333333333,
+   -60.845
+  ],
+  "split": "test",
+  "cancelled": false
+ },
+ "2023-667": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.685,
+   -61.1805
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-668": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.68461538461539,
+   -75.01410256410257
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-669": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.366666666666667,
+   -75.9625
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-67": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.395733333333333,
+   -52.60126666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-672": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.785000000000004,
+   -75.08333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-674": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.71,
+   -61.18683333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-678": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-679": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-680": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   13.039166666666667,
+   -70.91
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-682": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.525916666666667,
+   -80.27574999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-684": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.904166666666665,
+   -41.8875
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-686": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.1,
+   -97.1
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-687": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.541666666666668,
+   -97.475
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-688": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.016666666666666,
+   -97.5
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-689": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.969166666666666,
+   -96.77666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-690": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.702083333333334,
+   -94.93958333333332
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-691": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.875,
+   -92.19166666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-692": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.041666666666664,
+   -91.04166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-695": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.883333333333333,
+   -89.95
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-696": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.358999999999995,
+   -79.35999999999999
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-697": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.25,
+   -91.41666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-698": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.9625,
+   -89.85416666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-699": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.516666666666666,
+   -86.67083333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-7": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121333333333332,
+   -56.97066666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-70": {
+  "event_type": "OTHER",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-700": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.924999999999997,
+   -87.48333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-701": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   19.733333333333334,
+   -86.95833333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-704": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.9465,
+   -61.69716666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-708": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.245666666666667,
+   -60.36983333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-712": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.447666666666667,
+   -61.042833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-714": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   46.093333333333334,
+   -40.580555555555556
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-716": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.66944444444444,
+   -73.78055555555555
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-717": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-722": {
+  "event_type": "OTHER",
+  "centroid": [
+   18.292,
+   -63.26775
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-723": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.368333333333334,
+   -60.919333333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-727": {
+  "event_type": "OTHER",
+  "centroid": [
+   18.170833333333334,
+   -63.19458333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-728": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.493476190476194,
+   -83.27540476190475
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-731": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   46.01075,
+   -40.81966666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-733": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.2521249999999995,
+   -52.59108333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-734": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.583166666666667,
+   -61.78933333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-735": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.583333333333334,
+   -61.78933333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-736": {
+  "event_type": "OTHER",
+  "centroid": [
+   11.329569444444445,
+   -60.08241666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-738": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   7.360166666666666,
+   -55.68366666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-739": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.593333333333334,
+   -74.86833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-74": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   47.446,
+   -59.219166666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-743": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.8445,
+   -79.95
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-744": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   45.23891666666667,
+   -42.134083333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-745": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121333333333332,
+   -56.97066666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-75": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.722833333333334,
+   -49.839666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-750": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   9.363333333333333,
+   -79.89333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-753": {
+  "event_type": "OTHER",
+  "centroid": [
+   25.623333333333335,
+   -80.3895
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-754": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.39696969696969,
+   -63.42303030303031
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-762": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.6015,
+   -68.39166666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-766": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.121333333333332,
+   -56.97066666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-767": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.125,
+   -51.875
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-770": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.096541666666667,
+   -61.012708333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-773": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-774": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   43.914541666666665,
+   -45.073166666666665
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-776": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.593333333333334,
+   -74.86833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-78": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.18666666666667,
+   -74.30666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-784": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.280309523809523,
+   -76.37814285714286
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-787": {
+  "event_type": "OTHER",
+  "centroid": [
+   6.8969772727272725,
+   -58.13600000000001
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-788": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.9629166666666675,
+   -57.837916666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-789": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.583333333333334,
+   -56.29304166666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-791": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.810606060606062,
+   -75.17575757575759
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-792": {
+  "event_type": "OTHER",
+  "centroid": [
+   59.00666666666667,
+   -68.88833333333334
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-793": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.916666666666666,
+   -76.6
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-794": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.383333333333333,
+   -75.98333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-797": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   36.72833333333333,
+   -76.01
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-8": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   8.093909090909092,
+   -56.9069090909091
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-801": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.55454545454545,
+   -74.80757575757576
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-802": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.025,
+   -63.355
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-805": {
+  "event_type": "OTHER",
+  "centroid": [
+   41.71333333333333,
+   -70.505
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-806": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.115,
+   -68.82666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-808": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   63.72383333333333,
+   -91.83816666666667
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-809": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.5,
+   -78.66666666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-811": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.705,
+   -88.61333333333333
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-815": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.12125,
+   -56.97066666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-816": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.548095238095236,
+   -80.0077619047619
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-819": {
+  "event_type": "OTHER",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-820": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   41.39761111111111,
+   -52.25188888888889
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-821": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.1,
+   -97.1
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-822": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.016666666666666,
+   -97.5
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-823": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.702083333333334,
+   -94.93958333333332
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-825": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.088333333333335,
+   -61.232
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-829": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   11.329569444444445,
+   -60.08241666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-83": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   32.8445,
+   -79.95
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-831": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.623333333333335,
+   -80.3895
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-833": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   30.646666666666665,
+   -80.76666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-839": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.61818181818182,
+   -74.88333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-84": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   10.154166666666667,
+   -76.37833333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-840": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.524074074074075,
+   -74.72777777777777
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-844": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.334666666666667,
+   -87.058
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-849": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.335750000000004,
+   -56.515125
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-850": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.45,
+   -74.85952380952381
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-852": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.125,
+   -73.76041666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-855": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.555,
+   -61.321666666666665
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-86": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.52133333333333,
+   -80.33502777777778
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-861": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.524074074074075,
+   -74.72777777777777
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-862": {
+  "event_type": "OTHER",
+  "centroid": [
+   53.708333333333336,
+   -57.02133333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-864": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.477833333333333,
+   -94.27516666666666
+  ],
+  "split": "test",
+  "cancelled": false
+ },
+ "2023-867": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   6.0,
+   -52.5
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-869": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-873": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.865,
+   -87.965
+  ],
+  "split": "dev",
+  "cancelled": false
+ },
+ "2023-875": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   7.489083333333333,
+   -56.17227777777777
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-876": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.138,
+   -60.94883333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-883": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   13.7,
+   -63.6
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-884": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.524074074074072,
+   -74.72777777777777
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-886": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   15.489166666666666,
+   -70.39116666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-888": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.866666666666667,
+   -84.95333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-890": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   40.89233333333334,
+   -57.95183333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-897": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.557407407407407,
+   -74.76851851851852
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-900": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.160166666666665,
+   -63.1685
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-901": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   33.358999999999995,
+   -79.35999999999999
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-903": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.341666666666665,
+   -86.87333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-905": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.69266666666667,
+   -74.958
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-906": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   16.219833333333334,
+   -61.5315
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-914": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-915": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   23.541666666666668,
+   -97.475
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-916": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.969166666666666,
+   -96.77666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-917": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.875,
+   -92.19166666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-918": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   20.041666666666664,
+   -91.04166666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-919": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   22.25,
+   -91.41666666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-92": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   40.689,
+   -72.04266666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-920": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.9625,
+   -89.85416666666666
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-921": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.516666666666666,
+   -86.67083333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-922": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   18.924999999999997,
+   -87.48333333333335
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-923": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   19.733333333333334,
+   -86.95833333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-927": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.599666666666666,
+   -61.090333333333334
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-93": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   47.143,
+   -54.867
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-934": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   49.76083333333333,
+   -51.34166666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-935": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-936": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.62783333333333,
+   -80.4791388888889
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-937": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   62.236853333333336,
+   -74.89562666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-939": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   50.19583333333333,
+   -66.11233333333334
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-94": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.781166666666667,
+   -75.81116666666667
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-940": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   40.65511111111112,
+   -61.40577777777778
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-941": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   21.661666666666665,
+   -77.14
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-942": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-944": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   62.38779722222222,
+   -75.99085357142859
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-945": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   48.17,
+   -52.73166666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-949": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   39.06216666666667,
+   -71.54266666666666
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-950": {
+  "event_type": "OTHER",
+  "centroid": [
+   63.73,
+   -68.545
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-951": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   12.524333333333333,
+   -73.44683333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-955": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.123166666666666,
+   -61.04533333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-959": {
+  "event_type": "OTHER",
+  "centroid": [
+   8.556666666666667,
+   -59.99583333333333
+  ],
+  "split": "test",
+  "cancelled": false
+ },
+ "2023-96": {
+  "event_type": "OTHER",
+  "centroid": [
+   32.61066666666667,
+   -75.28
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-960": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.557407407407407,
+   -74.76851851851852
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-962": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.57108333333333,
+   -80.02008333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-966": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.557407407407407,
+   -74.76851851851852
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-967": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.125,
+   -51.875
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-968": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   13.173333333333334,
+   -73.3045
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-97": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   37.72,
+   -74.94333333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-970": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.583333333333334,
+   -61.78933333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-972": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.8305,
+   -61.259166666666665
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-973": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   5.305361111111111,
+   -52.71166666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-978": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   28.147833333333335,
+   -89.2675
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-979": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.583333333333334,
+   -61.78933333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-98": {
+  "event_type": "OTHER",
+  "centroid": [
+   7.216666666666667,
+   -53.86666666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-980": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   10.138,
+   -60.94883333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-984": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   4.933333333333334,
+   -52.083333333333336
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-987": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   29.885,
+   -89.945
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-989": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   17.901666666666667,
+   -62.85166666666667
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-990": {
+  "event_type": "SAR_INFO",
+  "centroid": [
+   41.25833333333333,
+   -71.625
+  ],
+  "split": "test",
+  "cancelled": true
+ },
+ "2023-994": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.1685,
+   -67.28683333333333
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-995": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   25.557407407407407,
+   -74.76851851851852
+  ],
+  "split": "dev",
+  "cancelled": true
+ },
+ "2023-998": {
+  "event_type": "NAV_WARNING",
+  "centroid": [
+   14.583166666666667,
+   -61.78933333333333
+  ],
+  "split": "test",
+  "cancelled": true
+ }
+}

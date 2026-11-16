@@ -1,0 +1,208 @@
+# ===========================================================================
+# MSI-Bench configuration (example)
+#
+# Copy this file to `config.yaml` and edit as needed:
+#
+#     cp config.example.yaml config.yaml
+#
+# API keys should NOT be placed in `config.yaml` directly —
+# put them in a `.env` file (see `.env.example`) or your shell environment.
+# Values below referencing ${ENV_VAR} are resolved from the environment.
+# ===========================================================================
+
+# --- paths (relative paths are resolved against the project root) ----------
+paths:
+  data_dir: data            # directory holding the annual NAVAREA CSV files
+  output_dir: results       # all experiment outputs are written here
+  cache_dir: .cache         # parsed-corpus cache, embeddings, etc.
+
+# --- corpus / partitions (Section 4.2) -----------------------------------
+corpus:
+  nav_area: 4               # NAVAREA IV
+  # Inclusive year ranges for each partition.
+  embedding_years: [2012, 2021]   # fine-tuning corpus + historical stats
+  benchmark_years: [2022, 2023]   # primary dev/test period
+  holdout_years:   [2024, 2024]   # single-shot temporal holdout
+  replay_years:    [2020, 2021]   # source pool for real replay-attack text
+
+# --- reproducibility -------------------------------------------------------
+seed: 20260613              # global RNG seed; experiments derive sub-seeds
+n_pipeline_seeds: 5         # stochastic-stage repetitions (Section 4.5)
+bootstrap_resamples: 1000   # bootstrap CI resamples over events
+
+# --- benchmark construction (Section 4.3) --------------------------------
+benchmark:
+  dev_test_split: 0.70          # event-level dev fraction
+  n_contributors: 800           # simulated contributor population size
+  crowd_per_event: [1, 5]       # min/max genuine crowd reports per event
+  crowd_multiplier: 2.5         # target GENUINE_CROWD count = mult * |E|
+  sensor_multiplier: 0.5        # target GENUINE_SENSOR count = mult * |E|
+  quality_tiers: {good: 0.60, moderate: 0.25, poor: 0.15}
+  attack_multipliers:           # counts as fractions of |E|
+    fabrication: 0.20
+    replay:      0.12
+    tamper:      0.12
+    impersonation: 0.08
+  # 8 campaigns per sophistication tier (four levels: low / medium / high /
+  # paraphrased — the check-(d) residual-limit tier).
+  sybil_campaigns: 32
+  rouge_l_max: 0.60             # reject schema-aligned crowd text above this
+  # Attack reserve: EXTRA attacks, this multiple of the base
+  # attack counts, generated under a disjoint namespace for E6's fixed-genuine
+  # adversarial-pressure sweep. 5.0 -> pool ~ 6x base ~ reaches 50% prevalence
+  # with genuine held fixed. Set 0 to disable.
+  reserve_attack_multiplier: 5.0
+
+# --- semantic similarity (Section 3.4) -----------------------------------
+embedding:
+  # If `model` is null or sentence-transformers is unavailable, the framework
+  # uses a TF-IDF fallback fitted on the embedding-years corpus.
+  # Default: sentence encoder on; set to null to reproduce the TF-IDF-fallback
+  # ablation.
+  model: sentence-transformers/all-MiniLM-L6-v2
+  finetuned_path: null          # path to a domain-adapted checkpoint, if any
+  device: cpu                   # "cpu" or "cuda"
+
+# --- MCAM defaults (Section 3.3); override to run sensitivity sweeps ----------
+mcam:
+  dim_weights: {device: 0.25, content: 0.30, spatiotemporal: 0.20, social: 0.25}
+  delta_ind_nm: 0.5             # independence min separation (Section 3.3)
+  delta_disp_nm: 2.0            # min expected Sybil dispersion (Eq. (7))
+  # Independence check (d): near-verbatim text duplication (word-3-gram
+  # containment >= theta_ndup => one effective source). Grounded on the dev
+  # split: genuine same-event paraphrases p99 = 0.57 vs Sybil within-campaign
+  # p1 = 0.92. Set > 1 to disable the check.
+  theta_ndup: 0.75
+  lambda_history_days: 90       # HistoryScore decay (Eq. (3))
+  n_min_history: 10             # cold-start threshold (Eq. (3))
+  # Assessment reference clock: "submission" scores each report as of its own
+  # arrival (issue_time + assessment_lag_h) — operationally faithful, and
+  # required because the overlay preserves the archive's real calendar span.
+  # "global" restores the single evaluation-time clock.
+  assessment_mode: submission
+  assessment_lag_h: 1.0
+
+# --- clustering / fusion defaults (Sections 3.4-3.6) ------------------------------
+clustering:
+  min_pts: 2
+  eps_fallback: 0.45
+  sim_weights: {spatial: 0.40, temporal: 0.25, semantic: 0.35}
+  # Temporal handling in the composite (Section 3.4).
+  # "gate": Sim = [(ws*Sims + wm*Simm)/(ws+wm)] * g_t with
+  #   g_t = max(interval-Jaccard, exp(-dIssue/tau_prox_h), exp(-gap_adj/tau_succ_h));
+  #   temporal evidence constrains event identity instead of casting a 25% vote,
+  #   so co-located recurrences months apart can no longer merge on
+  #   spatial+semantic affinity alone, while lifecycle successions (window B
+  #   starting where window A ends) stay linked. "additive" = original weighted sum.
+  temporal_mode: gate
+  tau_prox_h: 48
+  # Succession timescale, grounded in the 2012-2021 chain-handoff distribution
+  # (adjacency gap p50-p99 = 0 h, 75% within 72 h; recurrence dead time p50 = 55 d).
+  tau_succ_h: 72
+fusion:
+  q_discount: 0.6
+  sigmoid_beta: 10
+  sigmoid_k0: 0.5
+  # Fusion-stage independence discount (Section 3.6, Definition 4):
+  # near-verbatim subcluster members (check (d)'s Eq. (5) predicate, same
+  # mcam.theta_ndup) collapse to ONE effective source before BPA combination,
+  # so a scripted campaign cannot manufacture corroboration sharpening out of
+  # one authored text. Not part of the LLM cache key (assessment-side only).
+  independence_discount: true
+
+# --- LLM data generation (OPTIONAL; not needed for E0) ----------------------
+# Provider-agnostic. Configure the families used for generation (A/B) and the
+# judge (C). Keys come from the environment (see .env.example) — never inline.
+llm:
+  enabled: false                # set true once a provider + key are configured
+  # Response cache + generation transcript (append-only JSONL at
+  # <cache_dir>/llm_cache.jsonl). When true, identical generation requests are
+  # memoised, so rebuilds (the `all` pipeline, schema-aligned vs degraded
+  # brackets, a same-seed replay) cost nothing and reproduce the EXACT text — and
+  # every fresh generation is logged for fidelity analysis. Tail the file to
+  # watch a build stream; a crashed build resumes from it. Set false to disable.
+  cache: true
+  # Offline replay (for a machine without proxy access). When true, every
+  # generation/judge call is served ONLY from llm_cache.jsonl (no key, SDK, or
+  # network); a cache miss raises a clear error instead of calling out. Generate
+  # on the networked machine, copy the cache over, and run here with offline:true
+  # and the SAME seed + llm block. Leave false on the machine that generates.
+  offline: false
+  # Concurrent LLM workers. The network-bound calls — text generation in `build`
+  # and the E7 LLM-as-judge — run on a thread pool that overlaps the waiting,
+  # speeding up a cold (cache-empty) run N-fold up to the proxy's rate limit (try
+  # 8–32). Output is identical regardless of worker count (generation RNG stays
+  # sequential; judge scores are order-independent); 1 = original sequential path.
+  # Only the first run pays — once the cache is warm, replays are instant.
+  concurrency: 1
+  request_timeout_s: 120
+  max_retries: 4
+  batch_size: 20                # reports generated per request
+  # Output-token ceilings. These are anti-truncation headroom, NOT target
+  # lengths — the prompts bound the actual length, and billing is per token
+  # generated, so a roomy ceiling is essentially free on normal models. Raise
+  # if you ever see clipped report text or empty judge scores.
+  gen_max_tokens: 512           # per crowd/fabrication report
+  judge_max_tokens: 32          # per E7 LLM-as-judge rating (a single number)
+  # Generator family A — frontier commercial model (pin the exact ID).
+  generator_a:
+    provider: anthropic         # anthropic | openai | gemini | anthropic_proxy | openai_responses | mock
+    model: claude-opus-4-8      # PIN the exact model ID you actually use
+    api_key_env: ANTHROPIC_API_KEY
+    temperature: 0.8
+  # Generator family B — strong open-weights model (reproducibility-friendly).
+  generator_b:
+    provider: openai            # e.g. an OpenAI-compatible endpoint for OSS models
+    model: REPLACE_WITH_OPEN_WEIGHTS_MODEL_ID
+    api_key_env: OPENAI_API_KEY
+    base_url_env: OPENAI_BASE_URL   # optional; for self-hosted/OSS endpoints
+    temperature: 0.8
+  # Judge family C — MUST differ from A and B (Section 4.4, E7).
+  judge_c:
+    provider: anthropic
+    model: claude-haiku-4-5-20251001
+    api_key_env: ANTHROPIC_API_KEY
+    temperature: 0.0
+  # Example: Google Gemini family (requires `pip install google-genai`). Swap
+  # this block into generator_a/b or judge_c as needed.
+  #   provider: gemini          # ("google" is accepted as an alias)
+  #   model: gemini-2.5-flash   # PIN the exact model ID you actually use
+  #   api_key_env: GEMINI_API_KEY
+  #   temperature: 0.8
+  # -------------------------------------------------------------------------
+  # Anthropic- and OpenAI-compatible gateway providers. The provider names
+  # ``anthropic_proxy``, ``openai_responses`` and ``openai_proxy`` use the standard
+  # Anthropic / OpenAI SDK clients with an optional gateway address:
+  #
+  #   * provider: anthropic_proxy  — Anthropic Messages API (x-api-key auth).
+  #       Model used for MSI-Bench generator B: claude-sonnet-4-6
+  #   * provider: openai_responses — OpenAI Responses API (Bearer auth).
+  #       Models used for MSI-Bench generator A and judge C: gpt-5.2-codex,
+  #       gpt-5.3-codex
+  #
+  # The token is read from the environment variable named by `api_key_env` (for
+  # example LLM_GATEWAY_API_TOKEN, see .env.example). The gateway address is the
+  # `base_url:` of the provider block, else the LLM_BASE_URL environment variable;
+  # without either, the official endpoint is used. The "/v1" suffix is optional
+  # and tolerated either way. Swap either block into generator_a/b or judge_c as
+  # needed.
+  #   generator_a:
+  #     provider: anthropic_proxy
+  #     model: claude-3-5-sonnet-20241022
+  #     api_key_env: LLM_GATEWAY_API_TOKEN
+  #     # base_url: https://gateway.example.org/api/external      # gateway address
+  #     temperature: 0.8
+  #   generator_b:
+  #     provider: openai_responses
+  #     model: gpt-5.3-codex
+  #     api_key_env: LLM_GATEWAY_API_TOKEN
+  #     # base_url: https://gateway.example.org/api/external/v1   # gateway address
+  #     # Responses-API max_output_tokens spans hidden reasoning + visible
+  #     # output, so the reasoning models need headroom: the budget is floored at
+  #     # min_output_tokens (default 2048) regardless of the per-call cap.
+  #     # min_output_tokens: 2048    # raise if codex returns empty/truncated text
+  #     # reasoning_effort: low      # minimal|low|medium|high (omit = model default)
+  #     temperature: 0.8
+  # -------------------------------------------------------------------------
+  # Temperature used for structured-attribute extraction (Section 4.3).
+  extraction_temperature: 0.3

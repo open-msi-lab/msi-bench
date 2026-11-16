@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the paper and this release."
+title: "MSI-Bench: data and code for a credibility assessment and conflict-aware evidence fusion framework for multi-source maritime safety information"
+type: dataset
+version: "1.0.0"
+date-released: "2026-11-14"
+url: "https://github.com/open-msi-lab/msi-bench"
+repository-code: "https://github.com/open-msi-lab/msi-bench"
+license:
+  - MIT
+  - CC-BY-4.0
+abstract: >-
+  MSI-Bench is a semi-synthetic benchmark for credibility assessment and evidence
+  fusion of multi-source maritime safety information under graded mimicry attacks. It
+  couples 1,118 real NAVAREA IV navigational warnings (2022-2023) with a simulated
+  crowdsourced, sensor and adversarial overlay. The release also contains the
+  NAVAREA IV warning archive 2012-2024 (U.S. NGA, public domain), the reference
+  implementation of the framework and of all experiments, and the frozen results
+  reported in the paper.
+keywords:
+  - maritime safety information
+  - navigational warnings
+  - credibility assessment
+  - Dempster-Shafer evidence theory
+  - Sybil attack
+  - benchmark
+authors:
+  - family-names: Liu
+    given-names: Hongze
+    affiliation: "Navigation College, Dalian Maritime University, Dalian 116026, China"
+  - family-names: Liu
+    given-names: Zhengjiang
+    affiliation: "Navigation College, Dalian Maritime University, Dalian 116026, China"
+  - family-names: Guo
+    given-names: Muzhuang
+    email: gmzdlmu@dlmu.edu.cn
+    affiliation: "Navigation College, Dalian Maritime University, Dalian 116026, China"
+preferred-citation:
+  type: article
+  title: "A credibility assessment and conflict-aware evidence fusion framework for multi-source maritime safety information"
+  journal: "Information Fusion"
+  status: in-preparation
+  authors:
+    - family-names: Liu
+      given-names: Hongze
+    - family-names: Liu
+      given-names: Zhengjiang
+    - family-names: Guo
+      given-names: Muzhuang

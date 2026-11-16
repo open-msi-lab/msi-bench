@@ -1,0 +1,240 @@
+{
+  "variants": {
+    "full": {
+      "auc_primary": 0.8059,
+      "ci95": [
+        0.77,
+        0.8371
+      ]
+    },
+    "-device": {
+      "auc_primary": 0.7558,
+      "ci95": [
+        0.714,
+        0.7958
+      ]
+    },
+    "-content": {
+      "auc_primary": 0.8048,
+      "ci95": [
+        0.7684,
+        0.8358
+      ]
+    },
+    "-spatiotemporal": {
+      "auc_primary": 0.7784,
+      "ci95": [
+        0.7403,
+        0.8122
+      ]
+    },
+    "-social": {
+      "auc_primary": 0.7478,
+      "ci95": [
+        0.705,
+        0.7825
+      ]
+    }
+  },
+  "supplement_all15": {
+    "full": {
+      "auc_primary": 0.8059,
+      "ci95": [
+        0.77,
+        0.8371
+      ],
+      "active_dims": [
+        "device",
+        "content",
+        "spatiotemporal",
+        "social"
+      ]
+    },
+    "-device": {
+      "auc_primary": 0.7558,
+      "ci95": [
+        0.714,
+        0.7958
+      ],
+      "active_dims": [
+        "content",
+        "spatiotemporal",
+        "social"
+      ]
+    },
+    "-content": {
+      "auc_primary": 0.8048,
+      "ci95": [
+        0.7684,
+        0.8358
+      ],
+      "active_dims": [
+        "device",
+        "spatiotemporal",
+        "social"
+      ]
+    },
+    "-spatiotemporal": {
+      "auc_primary": 0.7784,
+      "ci95": [
+        0.7403,
+        0.8122
+      ],
+      "active_dims": [
+        "device",
+        "content",
+        "social"
+      ]
+    },
+    "-social": {
+      "auc_primary": 0.7478,
+      "ci95": [
+        0.705,
+        0.7825
+      ],
+      "active_dims": [
+        "device",
+        "content",
+        "spatiotemporal"
+      ]
+    },
+    "devi+cont": {
+      "auc_primary": 0.7258,
+      "ci95": [
+        0.6856,
+        0.7659
+      ],
+      "active_dims": [
+        "device",
+        "content"
+      ]
+    },
+    "devi+spat": {
+      "auc_primary": 0.7328,
+      "ci95": [
+        0.6938,
+        0.7665
+      ],
+      "active_dims": [
+        "device",
+        "spatiotemporal"
+      ]
+    },
+    "devi+soci": {
+      "auc_primary": 0.7801,
+      "ci95": [
+        0.7448,
+        0.8125
+      ],
+      "active_dims": [
+        "device",
+        "social"
+      ]
+    },
+    "cont+spat": {
+      "auc_primary": 0.6837,
+      "ci95": [
+        0.6395,
+        0.7225
+      ],
+      "active_dims": [
+        "content",
+        "spatiotemporal"
+      ]
+    },
+    "cont+soci": {
+      "auc_primary": 0.7168,
+      "ci95": [
+        0.6769,
+        0.7551
+      ],
+      "active_dims": [
+        "content",
+        "social"
+      ]
+    },
+    "spat+soci": {
+      "auc_primary": 0.7447,
+      "ci95": [
+        0.703,
+        0.7835
+      ],
+      "active_dims": [
+        "spatiotemporal",
+        "social"
+      ]
+    },
+    "only-device": {
+      "auc_primary": 0.6948,
+      "ci95": [
+        0.6509,
+        0.7371
+      ],
+      "active_dims": [
+        "device"
+      ]
+    },
+    "only-content": {
+      "auc_primary": 0.6849,
+      "ci95": [
+        0.6414,
+        0.7276
+      ],
+      "active_dims": [
+        "content"
+      ]
+    },
+    "only-spatiotemporal": {
+      "auc_primary": 0.6599,
+      "ci95": [
+        0.617,
+        0.6988
+      ],
+      "active_dims": [
+        "spatiotemporal"
+      ]
+    },
+    "only-social": {
+      "auc_primary": 0.688,
+      "ci95": [
+        0.6481,
+        0.7254
+      ],
+      "active_dims": [
+        "social"
+      ]
+    }
+  },
+  "delta_from_full": {
+    "-device": 0.0501,
+    "-content": 0.0011,
+    "-spatiotemporal": 0.0275,
+    "-social": 0.0581
+  },
+  "full_vs_ablation_significance": {
+    "-device": {
+      "auc_drop": 0.0501,
+      "p_paired": 0.0,
+      "p_holm": 0.0,
+      "significant_at_0.05": true
+    },
+    "-content": {
+      "auc_drop": 0.0012,
+      "p_paired": 0.674,
+      "p_holm": 0.674,
+      "significant_at_0.05": false
+    },
+    "-spatiotemporal": {
+      "auc_drop": 0.0275,
+      "p_paired": 0.006,
+      "p_holm": 0.012,
+      "significant_at_0.05": true
+    },
+    "-social": {
+      "auc_drop": 0.0581,
+      "p_paired": 0.0,
+      "p_holm": 0.0,
+      "significant_at_0.05": true
+    }
+  }
+}
